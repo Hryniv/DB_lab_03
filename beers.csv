@@ -1,0 +1,1001 @@
+id,name,brewery_id,state,country,style,availability,abv,notes,retired
+202522,Olde Cogitator,2199,CA,US,English Oatmeal Stout, Rotating,7.3,No notes at this time.,f
+82352,Konrads Stout Russian Imperial Stout,18604,,NO,Russian Imperial Stout, Rotating,10.4,No notes at this time.,f
+214879,Scottish Right,44306,IN,US,Scottish Ale, Year-round,4,No notes at this time.,t
+320009,MegaMeow Imperial Stout,4378,WA,US,American Imperial Stout, Winter,8.7,Every time this year,f
+246438,Peaches-N-Cream,44617,PA,US,American Cream Ale, Rotating,5.1,No notes at this time.,f
+8036,World Burp Beer 2002,3469,,JP,Japanese Rice Lager, Limited (brewed once),5.5,No notes at this time.,t
+108605,Icon Sender,22598,CA,US,American Lager, Year-round,5.6,No notes at this time.,f
+345382,Divina IPA,45567,,IT,American IPA, Rotating,6.5,No notes at this time.,f
+255286,Light Of The Ozarks,11203,AR,US,American Lager, Rotating,4.3,No notes at this time.,f
+29556,Warrior's Bock,8203,SK,CA,German Bock, Rotating,7.5,No notes at this time.,t
+106840,Firehouse Coffee Stout,25251,,AU,English Stout, Limited (brewed once),5,No notes at this time.,t
+253234,Coffee Infused Bitter,46862,WA,US,English Bitter, Rotating,3.5,No notes at this time.,f
+15271,Belgian Style Wit,1345,WA,US,Belgian Witbier, Year-round,4.5,No notes at this time.,t
+69212,Réserve No. 3,18796,QC,CA,American Strong Ale, Limited (brewed once),11.8,No notes at this time.,t
+181442,Southern Saints India Wheat Ale,33659,NC,US,American Pale Wheat Ale, Spring,6.9,No notes at this time.,f
+351259,Champagne Toast,34416,WA,US,Berliner Weisse, Rotating,4,No notes at this time.,f
+303023,The Sky Is High (wet Hopped Pale Ale),46616,NJ,US,American Pale Ale (APA), Limited (brewed once),5.2,"This hazy pale ale is brewed with fresh Cascade, Centennial, and Chinook hops from Sky High Hops. It is then dry hopped heavily with Cascade and Chinook.",t
+265827,Addison,30870,PA,US,American Pale Ale (APA), Rotating,5.5,No notes at this time.,f
+219798,Ocean Barley Wine,16420,,SE,British Barleywine, Year-round,9.8,No notes at this time.,f
+110318,Schwartz Hop,22598,CA,US,American Black Ale, Limited (brewed once),6,No notes at this time.,t
+262655,Stove By A Whale,45045,MA,US,Baltic Porter, Year-round,7.4,No notes at this time.,f
+15645,Cerveza India,846,,PR,American Adjunct Lager, Year-round,2,No notes at this time.,t
+123597,Bojan Wielkopolskie,35034,,PL,European Pale Lager, Year-round,5,No notes at this time.,f
+138971,Porter,34412,NC,US,American Porter, Rotating,5.3,No notes at this time.,f
+368953,Sneaky Raz,46938,GA,US,Fruit and Field Beer, Limited (brewed once),6.5,No notes at this time.,f
+31135,Rock Ice,1491,,CR,American Adjunct Lager, Year-round,4.7,No notes at this time.,f
+199068,Eastwood - Equinox,33278,CA,US,American Imperial IPA, Limited (brewed once),8.2,No notes at this time.,t
+165236,Fortuna,30,CO,US,American Wild Ale, Limited (brewed once),8.1,Sour ale that is aged in Tequila barrels with lime zest and salt.,t
+80010,Joy Division Series: No Love Lost,25186,PA,US,American Black Ale, Limited (brewed once),7.8,No notes at this time.,t
+337139,Walshtown,17089,SD,US,Irish Red Ale, Rotating,5.3,No notes at this time.,f
+166955,Leinenkugel's Ginger Shandy,710,WI,US,Fruit and Field Beer, Rotating,4.2,No notes at this time.,f
+336865,Episode 6: Hazy Pale Ale Citra & Galaxy & Lemon Drop,48963,,PL,English Pale Ale, Rotating,5.1,No notes at this time.,f
+55175,Samuel Adams New World Lager,35,MA,US,American Amber / Red Lager, Limited (brewed once),1.7,No notes at this time.,t
+105547,Bavarias Best Imperial Stout,5855,,DE,American Imperial Stout, Year-round,10,No notes at this time.,f
+201463,Dudeling,42740,CA,US,Belgian Saison, Rotating,5.9,No notes at this time.,f
+251078,Eldo Fresh Hop IPA,34416,WA,US,American IPA, Limited (brewed once),6,No notes at this time.,t
+73633,Troubadour Magma Special Edition 2011 - Cascade Hop,195,,BE,Belgian IPA, Limited (brewed once),9.5,No notes at this time.,t
+200033,Forest Nymph,42273,MN,US,Rye Beer, Limited (brewed once),4.5,"Deep amber with tan foam. Fragrance of spicy rye, caramelized raisins and toasted fall spices. Flavors are reminiscent of freshly baked cinnamon raisin bread, light bodied and refreshing.",t
+174277,Trip In The Woods: Madeira Aged Ovila,140,CA,US,Belgian Quadrupel (Quad), Limited (brewed once),5,No notes at this time.,t
+184151,Tasmanian Wild Ale,13670,,AU,American Wild Ale, Rotating,4.9,No notes at this time.,f
+274604,Weizen To ILL,39889,IL,US,German Hefeweizen, Rotating,5.75,No notes at this time.,f
+183296,Furlong,26884,ON,CA,Belgian Saison, Limited (brewed once),4.5,No notes at this time.,t
+217475,Iced Caramel Macchiato Stout,37521,FL,US,American Stout, Limited (brewed once),4.6,No notes at this time.,t
+55,Redhook Double Black Stout,18134,NH,US,American Imperial Stout, Rotating,7,Brewed with coffee.,f
+354484,Cranberry,48516,OH,US,Fruit and Field Beer, Rotating,5.8,No notes at this time.,f
+162786,Smoke On The Water,37593,,BR,Smoke Beer, Year-round,6.7,No notes at this time.,f
+331283,Village V Anniversary - Barrel Aged Tripel,28517,AB,CA,Belgian Tripel, Limited (brewed once),10,No notes at this time.,f
+350364,Pretty Peach,43087,IL,US,German Hefeweizen, Summer,4.1,No notes at this time.,f
+180974,Mighty Fine,22524,GA,US,American Amber / Red Ale, Limited (brewed once),6,No notes at this time.,t
+37042,Lomond Gold,3396,GB6,GB,Scottish Ale, Year-round,5,No notes at this time.,f
+182262,Wild Billy Winter Bock,25935,CA,US,German Bock, Winter,7.25,No notes at this time.,f
+144221,Java-Lantern Porter,35374,NC,US,Pumpkin Beer, Limited (brewed once),8,No notes at this time.,t
+108359,George Dickel Whisky Barrel Aged Lemon Pale Ale,1056,NE,US,American Pale Ale (APA), Limited (brewed once),6,No notes at this time.,t
+246535,Helles Bock,44691,NY,US,German Maibock, Limited (brewed once),7.5,No notes at this time.,t
+213171,Icon Series: Coffee Porter,337,TX,US,American Porter, Limited (brewed once),6.2,No notes at this time.,t
+78658,Marina The Grim North Black IPA,28476,,ES,American Black Ale, Limited (brewed once),7,No notes at this time.,t
+206018,Sheena,38829,,RU,American IPA, Year-round,6,No notes at this time.,f
+175138,La Blanche De Drummond,40690,QC,CA,Belgian Witbier, Year-round,6,No notes at this time.,f
+243977,IPA,28253,CO,US,American IPA, Year-round,6.5,No notes at this time.,f
+71854,Three Flowers,812,CA,US,Rye Beer, Rotating,6.5,No notes at this time.,f
+183447,Mutter Zebain's Dunkelhefe,586,NH,US,German Dunkelweizen, Rotating,6.5,No notes at this time.,f
+220844,La Temps Des Brunes,2998,,BE,Belgian Dark Ale, Winter,6,No notes at this time.,f
+332972,Vibin’,31805,FL,US,American Lager, Rotating,5,No notes at this time.,f
+372422,Aw Jeff-It,35996,MN,US,American Imperial IPA, Rotating,8.1,No notes at this time.,f
+188423,Dank IPA,29573,OR,US,American IPA, Fall,7.8,No notes at this time.,f
+265228,Applewood Ale,47917,MA,US,Smoke Beer, Rotating,6,No notes at this time.,f
+363261,Bakery: Coconut Macaroon,16866,CA,US,American Imperial Stout, Rotating,12.9,No notes at this time.,f
+212313,Jamaican Me Crazy Coffee Stout,26634,KS,US,American Imperial Stout, Limited (brewed once),8,No notes at this time.,t
+57062,Oxidizer,1550,,US,American Imperial IPA, Rotating,2.2,No notes at this time.,f
+260913,Winter IPA,22779,KY,US,American IPA, Rotating,6.8,No notes at this time.,f
+153810,Magic #411 - Wild Strawberry/Rhubarb/Vanilla Smoothie IPA,25314,5.5,SE,American IPA, Limited (brewed once),6,No notes at this time.,t
+67003,Zephyr IPA,2792,CO,US,American IPA, Limited (brewed once),1,No notes at this time.,t
+160048,Smiling Ivan,24488,LA,US,Russian Imperial Stout, Rotating,10,No notes at this time.,f
+71065,Blueberry Blonde,18566,MN,US,Fruit and Field Beer, Summer,5,No notes at this time.,f
+285931,Stallion Elixer,30229,MI,US,American Imperial IPA, Limited (brewed once),8.8,No notes at this time.,t
+317270,Norway José IPA,34096,,ES,American IPA, Limited (brewed once),7,No notes at this time.,f
+276123,Vienna Lager,35229,CO,US,Vienna Lager, Rotating,5.6,No notes at this time.,f
+305592,Dirty Hop Water: My Ding-A-Ling,32656,AZ,US,American IPA, Limited (brewed once),5.8,No notes at this time.,t
+45431,Early Iron ESB,13760,CO,US,English Extra Special / Strong Bitter (ESB), Limited (brewed once),2.3,No notes at this time.,t
+103595,Milk Chocolate Cherry Stout,13981,NM,US,English Sweet / Milk Stout, Rotating,8,No notes at this time.,f
+132213,Otway,33566,,IE,American Pale Ale (APA), Year-round,4.2,Otway is our take on an American Pale Ale – lower in alcohol but still big in flavour. A refreshing hop bite finishes with a touch of biscuit.,f
+283781,Mildly Perplexed,64,DE,US,English Extra Special / Strong Bitter (ESB), Rotating,7,No notes at this time.,f
+95570,Iki Beer Ginger,3521,,BE,Fruit and Field Beer, Year-round,5.5,No notes at this time.,f
+335248,Cellared Double Gold Medal 2014 Wee Heavy,26565,MN,US,Scotch Ale / Wee Heavy, Limited (brewed once),9,No notes at this time.,f
+293944,Falstaff's Revenge,9563,VA,US,American IPA, Rotating,6.7,No notes at this time.,f
+287043,P'tite Brett,16495,QC,CA,American Pale Ale (APA), Rotating,3.8,No notes at this time.,f
+48621,Hop Project #12,9020,TN,US,American IPA, Limited (brewed once),2,"And the hops keep coming... for this rendition of our soon-to-be-world-famous Hop Project Ale, which will be number 12 in the series, we featured two relatively new varieties called Apollo and Bravo. Apollo, which we used in #3 (if I remember right), has a really pungent nose. almost garlicy. Bravo is much more mellow, kind of lemony. They are both bred from a Galena variety to be high-alpha (around 16%) but much more stable in storage. We bittered the beer with Apollo and Zeus in the first wort, then added some Galena, Goldings, and Bravo at 30 minutes, and Simcoe, Goldings, and Bravo at 5 minutes for aroma. Then we dryhopped it with some Goldings and Amarillo. The old calculations say it's over 100 IBUs, which makes us happy.",t
+92942,Hefeweizen,25890,NJ,US,German Hefeweizen, Rotating,5.5,"A pale, spicy, fruity, refreshing Hefeweizen originating in Southern Germany. The fast-maturing beer is lightly hopped with hallertau and shows a unique banana-and-clove yeast character. This is a specialty for summer consumption but enjoyed year-round by all. Prost!",t
+100487,Appleanche,368,WI,US,Fruit and Field Beer, Limited (brewed once),7.7,This unique doppelbock packs a punch of apple flavor. The tart crispness of the apples is balanced with just enough malt sweetness to make this big beer dangerously smooth.,t
+218488,8-6-Rye,44600,TN,US,Rye Beer, Year-round,4,No notes at this time.,f
+339940,Blueberry Grind,41975,MO,US,Leipzig Gose, Rotating,4.3,"Sour brewed with blueberries, lemon peel and Messenger Coffee's natural processed Ethiopian.",f
+172090,Berlin Bulldog,31571,CA,US,German Pilsner, Rotating,5.1,No notes at this time.,f
+66299,Chief Lightfoot,22434,WA,US,Irish Red Ale, Rotating,5.5,No notes at this time.,f
+307145,Table Weiss,41121,AZ,US,German Kristalweizen, Rotating,4.6,No notes at this time.,f
+276933,Marzan Ale,45873,CO,US,German Märzen / Oktoberfest, Year-round,5.5,No notes at this time.,f
+169433,Kirkland Signature Brown Ale,21516,WA,US,American Brown Ale, Year-round,5,No notes at this time.,f
+245495,Raspberry Swine Cooler,28663,VT,US,American Pale Wheat Ale, Limited (brewed once),5,Tart wheat ale w/ raspberries,t
+68590,Red Carpet Ale,25430,CA,US,American Amber / Red Ale, Year-round,5.9,No notes at this time.,t
+372515,Super Love,44946,MI,US,Leipzig Gose, Limited (brewed once),4.5,No notes at this time.,f
+355754,Oh Four! Oatmeal Stout,53225,MI,US,English Oatmeal Stout, Year-round,5.5,No notes at this time.,f
+346532,The Union,43127,MA,US,German Maibock, Limited (brewed once),7.2,No notes at this time.,f
+274415,Nimbus ^2,44528,HI,US,American Imperial IPA, Limited (brewed once),8,No notes at this time.,t
+281791,Go Devil,42635,PE,CA,American IPA, Rotating,6.66,No notes at this time.,f
+361125,Hr. Frederiksen Væsel Brunch,13307,,DK,American Imperial Stout, Limited (brewed once),10.7,No notes at this time.,f
+241935,Derby Down,42628,VA,US,American Blonde Ale, Limited (brewed once),4.5,No notes at this time.,t
+179002,Mikkeller / The Pastels – Pastelism,13307,,DK,Bohemian Pilsener, Limited (brewed once),5.6,No notes at this time.,t
+277948,Tree Hugging Wood Chopping Mother Loving IPA,47733,,FI,American IPA, Year-round,6,No notes at this time.,f
+126074,Faction Barleywine,33181,CA,US,American Barleywine, Limited (brewed once),9,No notes at this time.,t
+348448,Nutha' Mate Auz Ale,52888,BC,CA,English Pale Ale, Rotating,6.5,No notes at this time.,f
+91005,16 Barrels Double Golden,16873,OR,US,American Strong Ale, Limited (brewed once),10,No notes at this time.,t
+241622,Hefeweizen,44859,NC,US,German Hefeweizen, Rotating,5.5,No notes at this time.,f
+327141,Surrey Sour,47514,GB2,GB,American Wild Ale, Rotating,4.2,No notes at this time.,f
+1826,Wells Bombardier (English Premium Bitter),664,GB2,GB,English Extra Special / Strong Bitter (ESB), Year-round,5.2,No notes at this time.,f
+201291,Plem,31448,MO,US,American Wild Ale, Rotating,6,No notes at this time.,f
+322317,Mint Chocolate Collusion,39763,FL,US,Russian Imperial Stout, Rotating,13,No notes at this time.,f
+303693,Deep Cut Reserve Series - RR#23,46527,MA,US,Rye Beer, Limited (brewed once),10.8,No notes at this time.,t
+282382,Rozha Hibiscus Lager,47227,CO,US,American Lager, Rotating,4.6,No notes at this time.,f
+362423,Dark Weasel Porter,53573,CA,US,American Porter, Rotating,1.2,No notes at this time.,f
+145222,Speedway Stout - Honey Graham,396,CA,US,American Imperial Stout, Limited (brewed once),12,Maple syrup & Cinnamon.,t
+311572,Traust,50977,ND,US,Foreign / Export Stout, Rotating,4.5,"tʰrøyst/ Norwegian for 'stout'. Ours is a medium roasted stout with a light body, tan foamy head, and clean mouth feel. An easy drinking pub ale.",f
+317409,Chanukah Hanukkah Pass the Beer 2017,262,NY,US,Belgian Strong Pale Ale, Limited (brewed once),8,Golden Strong Ale brewed with Cocoa Nibs. ,f
+247024,Rhubarb Berlinerweiss,46119,NC,US,Berliner Weisse, Limited (brewed once),3,No notes at this time.,t
+25947,Belgian White,4980,WA,US,Belgian Witbier, Summer,4.5,No notes at this time.,f
+281088,Rye Crush,29693,WA,US,American IPA, Limited (brewed once),6,No notes at this time.,t
+190398,Doehnelles,23326,BC,CA,European Export / Dortmunder, Rotating,3.2,No notes at this time.,f
+116682,Lookaftering,33521,DC,US,French Bière de Garde, Rotating,7.1,No notes at this time.,f
+81010,Gose,24134,SC,US,Leipzig Gose, Rotating,4,"This is our interpretation of Gose (pronounced “Gose-uh”), a traditional German-style sour wheat beer brewed with coriander and salt. Once nearly extinct, this very refreshing style is making a comeback.",f
+5615,Steamed Fritz,695,PA,US,California Common / Steam Beer, Rotating,4.1,No notes at this time.,t
+352597,Barrel Project 18.01,39015,,NL,American Imperial Stout, Limited (brewed once),10.5,No notes at this time.,f
+230668,Circle Of Trust,35586,NY,US,American IPA, Summer,8.3,No notes at this time.,f
+231838,Zeds Dead Blood Orange,35388,NH,US,American Pale Ale (APA), Rotating,4.5,No notes at this time.,f
+52830,Bootleg Oatmeal Stout,2553,,AU,English Oatmeal Stout, Limited (brewed once),5.5,No notes at this time.,t
+88631,Daisy Mae,16963,NM,US,American Wild Ale, Limited (brewed once),7,No notes at this time.,t
+75783,Carmen - Kiwi,16866,CA,US,American Wild Ale, Limited (brewed once),7,No notes at this time.,t
+206225,Tart 'n Juicy Sour IPA,22893,UT,US,American IPA, Year-round,4.5,No notes at this time.,f
+6299,Bison Weizen,609,CA,US,German Hefeweizen, Year-round,2.3,No notes at this time.,t
+56434,Cascade Sang Rouge,2391,OR,US,American Wild Ale, Rotating,8.06,Previously called 'Mouton Rouge'...,f
+288235,Dogmatic,32930,CA,US,American Imperial IPA, Rotating,8,No notes at this time.,f
+333825,Black Forest Bastard,11023,ON,CA,American Imperial Stout, Limited (brewed once),12,No notes at this time.,f
+331373,Gunnpowder IPA,10272,GB6,GB,English India Pale Ale (IPA), Year-round,5.7,No notes at this time.,f
+63802,Santa's Beered '10,261,MA,US,Winter Warmer, Limited (brewed once),9,"""Spiced Imperial Red Ale"" according to the brewer.",t
+311621,Berkeley Brown,47045,WV,US,American Brown Ale, Rotating,5.2,No notes at this time.,f
+338540,Edelmeister Radler,3778,,PL,Fruit and Field Beer, Year-round,2,No notes at this time.,f
+168394,Holiday In Cascadia,6269,WA,US,American Black Ale, Rotating,6.7,No notes at this time.,f
+277283,BBR (Beaver Blue Ribbon),41072,,AT,German Helles, Year-round,3.3,No notes at this time.,f
+367263,Raspberry American Sour,13667,VA,US,American Wild Ale, Rotating,3,No notes at this time.,f
+372185,ChamALEon,52707,GB2,GB,American Pale Ale (APA), Rotating,4,No notes at this time.,f
+159120,Imperial Amber Ale,31913,,SE,American Imperial Red Ale, Limited (brewed once),9,No notes at this time.,t
+69226,Sunburnt Irish Red,25482,,IE,Irish Red Ale, Year-round,5,New from May 2011,f
+216389,Neziah Bliss,45,NY,US,American Strong Ale, Limited (brewed once),9.7,No notes at this time.,t
+188649,Brandy Aged Tart Double Stout,31097,CA,US,American Wild Ale, Limited (brewed once),7.1,No notes at this time.,t
+112542,Black Tonic,28299,OH,US,American Stout, Rotating,8.8,No notes at this time.,f
+143277,Precipitation Porter,31030,WA,US,American Porter, Rotating,6.2,No notes at this time.,f
+165166,Hammer Blont,25964,,NL,American Blonde Ale, Year-round,1,No notes at this time.,f
+315066,Mashina,49734,SD,US,Baltic Porter, Rotating,8,Formerly known as Machina,f
+90080,Stolt Lager,22537,,SE,Bohemian Pilsener, Year-round,5,No notes at this time.,f
+143477,That's A Paddlin',3137,NY,US,American IPA, Limited (brewed once),5.7,No notes at this time.,t
+314711,Inner Dinosaur Rye India Pale Ale,34280,PA,US,American IPA, Limited (brewed once),7.4,No notes at this time.,f
+166717,UB Export Strong,91,,IN,European Strong Lager, Year-round,8,"UB Export Strong, a 'strong' avatar of Karnataka's much loved and iconic beer brand UB Export was launched across Karnataka in June/July 2009.",f
+294576,Bay Muck Brown Ale (brewed With Caramello Bars),46695,NJ,US,American Brown Ale, Limited (brewed once),2,No notes at this time.,t
+282973,Urban Sombrero,37078,OH,US,American Adjunct Lager, Rotating,5.7,"Combining the spirit of Old Mexico with a little big city panache, Urban Sombrero is a cover-worthy Mexican Style Lager brewed for early summer sipping. Liberty hops provide a floral bouquet and hint of spice to this classic brew. Best enjoyed ice cold in the shade on a hot day, no lime necessary. Vaya con Dios.",f
+272375,Cocoa Milk,40892,CA,US,English Sweet / Milk Stout, Limited (brewed once),8.3,No notes at this time.,t
+108828,Little India Pale Ale (100% Vienna Malt),199,CA,US,American Pale Ale (APA), Rotating,1,No notes at this time.,f
+65001,Nog,1550,,US,American Amber / Red Ale, Winter,5.4,No notes at this time.,f
+52230,Collaborative Evil,1678,CA,US,Belgian Strong Pale Ale, Limited (brewed once),7,No notes at this time.,t
+365980,Zephyr Pina Colada,16315,GB6,GB,American Wild Ale, Rotating,4.6,No notes at this time.,f
+23920,Hirsch-Gold,620,,DE,German Helles, Year-round,5.2,No notes at this time.,f
+145005,Uncle Ernie's Oatmeal Pale Ale,26620,CO,US,American Pale Ale (APA), Rotating,5.8,No notes at this time.,f
+256320,Avatar Gin-Barrel Aged,700,WA,US,American Imperial IPA, Rotating,7,No notes at this time.,f
+260095,Blueberry Hoppy Meal,44082,MO,US,American Pale Ale (APA), Rotating,6.6,No notes at this time.,f
+282917,Smuttynose IPA W/Amarillo And Citra,141,NH,US,American IPA, Limited (brewed once),6.9,No notes at this time.,t
+237346,A Terrible Beauty,36597,IN,US,Foreign / Export Stout, Rotating,6,No notes at this time.,f
+139775,Experiment-Ale: Batch #66,33642,NJ,US,American Pale Ale (APA), Limited (brewed once),4.7,No notes at this time.,t
+70690,Blanche,25775,QC,CA,Belgian Witbier, Year-round,4.5,No notes at this time.,f
+71681,Wheat Ale,17087,GB7,GB,German Hefeweizen, Year-round,4.2,A hefe-weizen with exotic top notes to the aromas. Predominantly banana with floral edges. On the palate the fruit notes continue with some caramel coming through on the rich elegant finish. Retains a good mousse throughout.,f
+309146,Queen of Cups,48925,CT,US,Belgian Dubbel, Rotating,7.5,No notes at this time.,f
+271505,Belgian Saison,48370,QC,CA,Belgian Saison, Rotating,1,No notes at this time.,f
+219156,Maple Bacon Porter,44467,CO,US,American Porter, Rotating,1,No notes at this time.,f
+324512,Pinkly Taurus,42205,IN,US,Leipzig Gose, Limited (brewed once),7.9,No notes at this time.,f
+18057,Ch'ti Brune,380,,FR,French Bière de Garde, Year-round,6.4,No notes at this time.,f
+6834,Philadelphia Porter,695,PA,US,American Porter, Year-round,6,"Originally enjoyed by the working class of England, porters inevitably became a staple in American brew pubs. Our interpretation is brewed with Caramel malt for a rich, toffee-like sweetness and a touch of East Kent Goldings hops. However, it’s the robust flavor of the black and chocolate malt that take center stage in this dark, full-bodied ale.",f
+215824,Purgatory Black Cream Ale,34671,ON,CA,American Cream Ale, Rotating,4.3,No notes at this time.,f
+111730,Quaff Bros Grand Crow,3474,OH,US,Belgian Quadrupel (Quad), Limited (brewed once),11.5,No notes at this time.,t
+250683,Light Beer,47185,,EE,European Pale Lager, Year-round,1,No notes at this time.,f
+254603,The Decline,38745,CA,US,American Strong Ale, Rotating,9.5,No notes at this time.,f
+283832,The Calling,45678,CA,US,American Pale Ale (APA), Limited (brewed once),6.8,No notes at this time.,t
+39035,Bionda,16341,,IT,European Pale Lager, Year-round,4.8,No notes at this time.,t
+247876,Banana Nut Brown,28558,CO,US,American Brown Ale, Rotating,5.4,No notes at this time.,f
+364550,Nitro,34017,CA,US,English Porter, Summer,4,"Nitro was inspired by cool summers in San Francisco, where outdoor adventures often come with fog. Best enjoyed infused with nitrogen, this beer is light, daring and thirst-quenching, but a double-roasted malt brings in fudge and molasses notes to keep things toasty. This is a beer for a cozy evening at home with a book and blanket, or a few friends and a good conversation.",f
+257424,The Hop Collective (THC): Equinox,34658,CT,US,American Pale Ale (APA), Rotating,5.5,No notes at this time.,f
+10540,Iwatekura IPA,4974,,JP,American IPA, Year-round,1,No notes at this time.,f
+177592,Unity,27922,CA,US,Belgian Saison, Limited (brewed once),5.3,No notes at this time.,t
+360468,Tripel K,53427,,BE,Belgian Tripel, Year-round,7.5,No notes at this time.,f
+272456,Plum Gueuze,30895,NY,US,Belgian Gueuze, Rotating,1,No notes at this time.,t
+22270,Rauchbier,4832,PA,US,German Rauchbier, Rotating,5.7,No notes at this time.,f
+263953,MK Ultra,33901,NY,US,American Imperial IPA, Rotating,8.5,Dry hopped with Lemondrop and Simcoe,f
+201533,Dark Cloud,30249,FL,US,American Brown Ale, Limited (brewed once),4.7,No notes at this time.,t
+104273,Badetiss,31326,MN,US,American Blonde Ale, Rotating,3.5,No notes at this time.,f
+251232,Altbier,36639,GB2,GB,German Altbier, Rotating,5.2,No notes at this time.,f
+42880,Barley's Bombshell Blonde,1513,OH,US,German Helles, Spring,4.5,No notes at this time.,f
+145165,Wasatch Switch,28908,,,American Wild Ale, Limited (brewed once),8,No notes at this time.,t
+257745,Imperial Stout,46778,OH,US,Russian Imperial Stout, Rotating,8.5,No notes at this time.,f
+189384,Heritage Farmhouse Saison,7527,BC,CA,Belgian Saison, Rotating,5.5,No notes at this time.,f
+144767,Let It Ryed IPA,33491,FL,US,Rye Beer, Limited (brewed once),7.3,No notes at this time.,t
+343039,Oryza IPA,50253,,PL,American IPA, Rotating,6.7,No notes at this time.,f
+330886,Scottish Ale,51053,,BR,Scottish Ale, Year-round,6.5,No notes at this time.,f
+58694,Black Hole (Bourbon Edition),13307,1,DK,Russian Imperial Stout, Limited (brewed once),13.1,Brewed at De Proefbrouwerij.,t
+234066,Streif,42879,ON,CA,American IPA, Rotating,7,A New Zealand-hopped Wheat IPA fermented entirely with Brettanomyces.,f
+142342,Coco Loco,6045,,US,Belgian Strong Pale Ale, Limited (brewed once),8.9,No notes at this time.,t
+307448,Concrete Peaks,27035,NY,US,German Märzen / Oktoberfest, Rotating,6,No notes at this time.,f
+203666,Oatmeal Stout,43097,CO,US,English Oatmeal Stout, Rotating,6.1,No notes at this time.,f
+267313,Berenstain Brown,556,CT,US,English Brown Ale, Rotating,5,No notes at this time.,f
+28093,Fraile,12613,,MX,English Porter, Rotating,5.2,No notes at this time.,f
+7461,Christmas Farm Ale,1620,FL,US,Winter Warmer, Winter,1,No notes at this time.,t
+95834,Belgian IPA,952,WI,US,Belgian IPA, Rotating,1,No notes at this time.,f
+55706,Bourbon Barrel Existential Porter,3174,CO,US,American Porter, Rotating,6.7,No notes at this time.,f
+63314,Bourbon Barrel Double Stout,2743,CA,US,American Imperial Stout, Rotating,10.1,No notes at this time.,t
+34094,Older Viscosity,13839,CA,US,American Imperial Stout, Rotating,12,Imperial Stout aged for 12 months in new bourbon barrels.,f
+82299,Série Signature - Hopfenweisse,11056,QC,CA,German Hefeweizen, Rotating,6,Wheat ale mixing the flavors of Germany's weizen and America's typical hops.,f
+273071,Tipperary Red,103,NY,US,Irish Red Ale, Rotating,5.2,No notes at this time.,f
+79149,Tropical Heatwave Wheat Ale,17981,FL,US,American Pale Wheat Ale, Limited (brewed once),5.2,No notes at this time.,t
+253048,The Mighty Wurlitzer,898,MD,US,American Brown Ale, Limited (brewed once),2.2,"Brewed with Kent Golding hops, pecan, cocoa nibs, and coffee.",t
+109358,Black Cherry Sherry Stout,24880,MO,US,American Strong Ale, Rotating,2.3,Medium bodied black beer with a fruity/cherry nose and hints of roasted malt and dark caramel that finishes with a subtle tartness. The beer undergoes a secondary fermentation in sherry barrels and with the addition of tart cherries.,t
+49575,Empirical 7,863,CA,US,Belgian Saison, Limited (brewed once),7,No notes at this time.,t
+363440,Cherry Lime Gose,52393,VA,US,Leipzig Gose, Rotating,4.9,Our tart and salty Gose with cherries and limes. A tasteful balance between the fruits comes forward in both the aroma and flavor.,f
+94165,Kilikia Light,671,,AM,American Light Lager, Year-round,4.5,No notes at this time.,f
+132542,Bonfire & Illumination,30884,NY,US,American IPA, Limited (brewed once),2.3,No notes at this time.,t
+13237,Döbler Fränkisches Festtagsbier,5706,,DE,German Märzen / Oktoberfest, Fall,5.8,No notes at this time.,t
+223583,I’m So Horny!,29347,,PL,European Dark Lager, Rotating,6.7,No notes at this time.,f
+65106,Gorgeous George,1550,,US,English India Pale Ale (IPA), Limited (brewed once),6.7,No notes at this time.,t
+341633,All is Well,38903,NB,CA,American Imperial IPA, Rotating,8,No notes at this time.,f
+238958,Taïga,42249,QC,CA,American IPA, Rotating,4.2,No notes at this time.,f
+77754,Redneck Alt,28188,KY,US,German Altbier, Year-round,5.4,No notes at this time.,f
+89608,Framboise Noir,27917,PA,US,Belgian Strong Dark Ale, Rotating,10.5,No notes at this time.,f
+351209,Stop & Do,41542,PA,US,American Imperial IPA, Limited (brewed once),8.7,No notes at this time.,f
+97580,Black Harvest Stout,30031,MN,US,American Stout, Rotating,2.1,No notes at this time.,f
+269355,Stacker,48210,WI,US,American Cream Ale, Year-round,4.73,No notes at this time.,f
+290440,Haboob Black IPA,45920,AZ,US,American Black Ale, Year-round,6,No notes at this time.,f
+7916,Sheepshead Stout,1912,WI,US,English Oatmeal Stout, Year-round,5,No notes at this time.,f
+201595,Bourbon Barrel-aged Dark Star,32910,CO,US,Russian Imperial Stout, Fall,12,Aged in Heaven Hill Barrels,f
+54054,Altbier,1154,OH,US,German Altbier, Rotating,6.75,No notes at this time.,f
+278405,Not Yo Mama's Java,45537,SC,US,American Stout, Limited (brewed once),6,No notes at this time.,t
+225968,High Nose Snow,37820,,SE,American Pale Ale (APA), Winter,5.2,No notes at this time.,f
+234175,Big Dummy IPL,32900,PA,US,American Lager, Limited (brewed once),8.7,No notes at this time.,t
+269196,East River IPA,35025,SD,US,American IPA, Rotating,6.4,"The East Coast IPA style focuses on balanced flavor and bitterness. Miner Brewing Company's version boasts juicy grapefruit and mango notes with refreshing, balanced bitterness in the finish.",f
+191224,Burgherren Pils,30945,,DE,German Pilsner, Year-round,4.8,No notes at this time.,f
+172374,Das Frettchen Oktoberfest,16285,OH,US,German Märzen / Oktoberfest, Fall,3.2,No notes at this time.,f
+166414,Strawberry Detention Double IPA,36710,FL,US,American Imperial IPA, Limited (brewed once),1.2,No notes at this time.,t
+116753,Belgian Golden,34155,NY,US,Belgian Pale Ale, Limited (brewed once),6,No notes at this time.,t
+234045,Teacher's Aide,38302,CA,US,American Amber / Red Ale, Year-round,5.5,No notes at this time.,f
+313666,Bohemia ipa,301,,PT,American IPA, Year-round,7,No notes at this time.,f
+232650,Ground Zero / White Stork Grounded Stork Saison Grisette,41566,3.3,RO,Belgian Saison, Limited (brewed once),5.8,No notes at this time.,t
+273484,Wee-Heavy,22513,IA,US,Scotch Ale / Wee Heavy, Winter,12,No notes at this time.,f
+168128,Redfeather Session IPA,19765,WA,US,American IPA, Spring,4.8,No notes at this time.,f
+170621,Endurance (2015 Ski To Sea Race),20680,WA,US,American Imperial IPA, Limited (brewed once),9.75,"Fremont is a mythical brewery located on the outskirts of your imagination and the edge of the possible. Should you choose to seek us out, know that once you step onto this road, you cannot go back to the life you led before. The quest for craft beer will alter your perception of yourself and those around you, particularly after two or three beers. So stand up straight, tighten up your laces or fasten down you velcro straps and pack your bags, if you choose to look for Fremont, you will need some ... Endurance IPA. Enjoy the ride, Because Beer Matters!",t
+160157,Sesh,3925,IL,US,American Pale Ale (APA), Rotating,4.8,No notes at this time.,f
+192937,Pumpkin Lager,31724,NC,US,Pumpkin Beer, Fall,6,No notes at this time.,f
+151226,Vitamin O,25422,NC,US,English Extra Special / Strong Bitter (ESB), Rotating,6,No notes at this time.,f
+69230,Boh Pils,2294,,IE,Bohemian Pilsener, Fall,4.5,Bohemian Pilsner (unfiltered),f
+4067,Old Growler,1390,GB2,GB,English Porter, Year-round,5.5,No notes at this time.,f
+187811,Trial & Error # 132 - Wet Hopped Saison,29971,PA,US,Belgian Saison, Limited (brewed once),5.5,No notes at this time.,t
+124660,Porter,34962,MI,US,American Porter, Year-round,7.2,No notes at this time.,f
+297549,"The ""Royal Wheat""",46364,MN,US,Belgian Witbier, Summer,5.6,No notes at this time.,f
+120043,Bitter,178,GB2,GB,English Bitter, Year-round,4,No notes at this time.,f
+254893,Muerte Al Cereal,28192,WA,US,English Sweet / Milk Stout, Limited (brewed once),7.9,No notes at this time.,t
+91726,Dubec,24392,,IT,German Doppelbock, Year-round,7.5,No notes at this time.,f
+200254,Liquid Advent,39879,OH,US,American Porter, Limited (brewed once),5.5,No notes at this time.,t
+98240,Saison,27378,CA,US,Belgian Saison, Rotating,6.6,No notes at this time.,f
+172383,Session Black IPA,31066,TX,US,American Black Ale, Rotating,5,No notes at this time.,f
+129203,Old '96 Sticke Alt,31733,NM,US,German Altbier, Limited (brewed once),6,No notes at this time.,t
+294238,Skittles Berliner,32409,FL,US,Berliner Weisse, Rotating,5.3,No notes at this time.,f
+221300,Saving Daylight,41849,VA,US,American Pale Wheat Ale, Year-round,4.9,"Crisp, Refreshing, Citrusy. ",f
+366777,Flippin’ Frappe DIPA,45704,NH,US,American Imperial IPA, Limited (brewed once),9,No notes at this time.,f
+123681,Jubilee,14952,VA,US,Belgian Strong Dark Ale, Limited (brewed once),10,Aged in premium Bowman's bourbon barrels for over a year.,t
+344667,Rapid Transit,33375,CO,US,American Pale Ale (APA), Rotating,5.8,No notes at this time.,f
+179275,Jai Alai IPA - Key Lime,17981,FL,US,American IPA, Limited (brewed once),7.5,No notes at this time.,t
+127933,Archives 1804 T,31331,CA,US,English Porter, Limited (brewed once),2.8,No notes at this time.,t
+254265,Cranberry Berliner,28178,IL,US,Berliner Weisse, Rotating,4,No notes at this time.,f
+84035,Abbey Ale,467,MN,US,Belgian Dubbel, Limited (brewed once),3,No notes at this time.,t
+292733,Green And Gold,49805,VT,US,American Pale Ale (APA), Year-round,5.2,No notes at this time.,f
+161573,Solicitation,38397,AZ,US,American Stout, Rotating,6,No notes at this time.,f
+129402,SVE Kölsch,1146,IL,US,German Kölsch, Limited (brewed once),5,A dry-hopped kolsch brewed with input from singer Sharon Van Etten for Pitchfork Music Festival 2014.,t
+282630,Throw Back Pilsner,30265,CA,US,Bohemian Pilsener, Year-round,5.4,No notes at this time.,f
+278937,MOAB (Mother Of All Bettys),16504,NE,US,Russian Imperial Stout, Limited (brewed once),12.7,No notes at this time.,t
+364504,Monkish / Half Acre Here To Fish,28657,CA,US,American Imperial IPA, Rotating,9.4,No notes at this time.,f
+101845,Czech-Style Pilsner,29747,NY,US,Bohemian Pilsener, Rotating,5.6,No notes at this time.,f
+278947,Short-Term Immortal,28383,PA,US,American Imperial IPA, Rotating,9.2,"Double IPA. Brewed with Golden Promise, Maris Otter, and a touch of caramel malt. Dry-hopped intensely with Simcoe, Amarillo, Mosaic, and experimental hop variety 11405 from our friends at Hopstiener.",f
+273549,Coal Train-Dates & Currants,3268,MO,US,American Imperial Stout, Limited (brewed once),11.5,No notes at this time.,t
+20815,Winter Warmer,9877,WI,US,Scotch Ale / Wee Heavy, Winter,8,No notes at this time.,f
+363187,"Virginia Cobbler: Cherry, Peach",37910,VA,US,American Wild Ale, Rotating,4,No notes at this time.,f
+159591,La Loggia Tipo Pilsen,38185,,AR,Bohemian Pilsener, Rotating,6,No notes at this time.,f
+364990,Town Series: Totally Bonkers,36113,WA,US,American Imperial IPA, Rotating,8.3,"DIPA with citra, simcoe, and styrian wolf hops.",f
+293482,Hopicorn,2671,MI,US,American Cream Ale, Rotating,5.8,No notes at this time.,f
+95750,Shinjiko Sekiyo Amber Ale,11371,,JP,American Amber / Red Ale, Summer,5.5,No notes at this time.,f
+283539,Odranoel,29640,IL,US,American Porter, Winter,5.3,No notes at this time.,f
+180366,Dockside Schwarzbier,30589,WA,US,German Schwarzbier, Summer,5,No notes at this time.,f
+51101,Pride Of Nekron,16295,,DK,American Imperial Stout, Year-round,10.5,No notes at this time.,f
+339189,Triple Play,50212,FL,US,Belgian Tripel, Rotating,9,No notes at this time.,f
+304297,Planet Oedipus Lifeform No. 1-PO17-GL-HMBO,35209,,NL,Herb and Spice Beer, Limited (brewed once),6,No notes at this time.,t
+135317,Bottle Rocket,30553,IA,US,German Kölsch, Rotating,4.2,No notes at this time.,f
+53004,Blitzen,20789,GB2,GB,Winter Warmer, Winter,6,No notes at this time.,f
+272734,Little Bastard Ale,47021,,DE,American Amber / Red Ale, Rotating,4.7,No notes at this time.,f
+358635,Monkin',21683,IL,US,Pumpkin Beer, Limited (brewed once),6.8,No notes at this time.,f
+328472,End of The Line - Simcoe IPA,33820,TX,US,American IPA, Rotating,6.5,No notes at this time.,f
+141187,Wermlands Ale,37042,,SE,American Pale Ale (APA), Year-round,5.6,No notes at this time.,f
+162733,Cuivre,16866,CA,US,English Old Ale, Limited (brewed once),16.2,This 2015 Anniversary Old Ale celebrates The Bruery’s 7th year and it is 100% ale aged in Bourbon Barrels. Cuivre translates to “Copper” and this beer will be packaged in 750ml bottles.,t
+127738,Obsession Ale,33966,NY,US,American Pale Ale (APA), Limited (brewed once),4.4,No notes at this time.,t
+277165,Manchurian Candidate,24656,OH,US,American Amber / Red Ale, Rotating,6,No notes at this time.,f
+316855,Island Daydream,33018,CA,US,American Wild Ale, Rotating,6.3,Golden Sour Beer Aged in Oak Barrels with Pineapple and Toasted Coconut.,f
+228019,Apparition Double IPA - Habanero,29671,NV,US,American Imperial IPA, Rotating,9.2,No notes at this time.,f
+366235,Beer Bath,53754,OK,US,Belgian Saison, Rotating,7.8,No notes at this time.,f
+236267,Saison,46008,NJ,US,Belgian Saison, Year-round,4,No notes at this time.,f
+109105,Eureka W/ Citra,28743,MA,US,American Blonde Ale, Rotating,4.1,"Our Jam! Eureka w/Citra explodes with citrus fruit on the nose and the palate , and finishes cleanly with light bits of cracker malt. Someone forgot to tell it that it's only 4.1% alcohol. A beautiful and pungent, yet delicate and highly drinkable beer!",f
+127850,Genesee Brew House Unfiltered IPA,29854,NY,US,American IPA, Rotating,6,No notes at this time.,f
+219524,Whistle Pig Juniper Ale,44494,CO,US,American Pale Ale (APA), Year-round,6.6,No notes at this time.,f
+320216,Monk House,22513,IA,US,Belgian Dubbel, Rotating,6.8,No notes at this time.,f
+290807,FFG,36686,WI,US,American Wild Ale, Rotating,4,Meerts heavily dry hopped with Galaxy hops,f
+139974,Plum And Cardamom Rye Saison (Hops & Pie Collaboration),18564,CO,US,Belgian Saison, Rotating,6.9,No notes at this time.,f
+151462,Druther's Sour Brown,29747,NY,US,American Brown Ale, Rotating,6.2,No notes at this time.,f
+46693,Bourbon Aged Barleywine,1550,,US,American Barleywine, Rotating,12,No notes at this time.,f
+298194,Hertog Jan Grand Prestige Vatgerijpt Bourbon,530,,NL,British Barleywine, Limited (brewed once),12.4,No notes at this time.,t
+318289,Rhenish Alt,1177,MN,US,German Altbier, Rotating,5,No notes at this time.,f
+79367,KellerBier,5581,,DE,German Kellerbier / Zwickelbier, Year-round,4.9,No notes at this time.,f
+106649,Sugar And Spice And Everything Nice Belgian Ale,11141,KS,US,Belgian Strong Dark Ale, Rotating,4.2,No notes at this time.,f
+89612,Bitter Buffalo India Brown Ale,25433,ID,US,American Brown Ale, Rotating,6.2,No notes at this time.,f
+10544,Samson Budweiser Bier Černý,303,,CZ,European Dark Lager, Year-round,3.8,No notes at this time.,f
+291318,"Anastasia's Chocolate Fantasy (With Coconut, Buckwheat, & Lactose)",1659,VA,US,Russian Imperial Stout, Limited (brewed once),9.1,No notes at this time.,t
+259293,Double Dry Hopped Art & Industry,28428,MA,US,American IPA, Rotating,7,No notes at this time.,f
+262998,2 Jacks,1457,MI,US,English Old Ale, Rotating,9.5,No notes at this time.,f
+196017,Mods Pale Ale,38767,VA,US,American Pale Ale (APA), Rotating,5.2,No notes at this time.,f
+156280,Estrella Galicia 1906 Black Coupage,2100,,ES,Munich Dunkel Lager, Year-round,7.2,"The term ""coupage"" is used in the wine world to refer to the blending of wines to make a finished product. Hijos de Rivera uses the term here to refer to the mixture of four traditionally floor-malted Czech barley malts which they use to brew this excellent lager. Pouring very dark brown – approaching black – with reddish flashes, 1906 Black Coupage offers up a wonderful aroma. Look for richly bready notes with toast, touches of licorice, raisin and dried figs, hints of coffee grounds and cocoa powder, and an overlay of lightly fruity and floral hop character. This brew isn't shy on the palate either; there's quite a roasty character, with notes of deeply toasted bread, roasted coffee, and hints of dark chocolate and nuts. Those dried fruit notes emerge in the flavor too, augmented by Sladek hops which often contribute a fruity note akin to peach along with a spiciness similar to Saaz hops.",f
+95751,Piebalga,13382,,LV,European Pale Lager, Year-round,5.6,No notes at this time.,f
+25420,Pale Ale,155,ON,CA,English Pale Ale, Year-round,5,No notes at this time.,t
+115294,Hefeweizen,22223,,NZ,German Hefeweizen, Summer,5.4,No notes at this time.,f
+46776,Summer Buzz,873,NY,US,American Strong Ale, Summer,7.5,No notes at this time.,f
+178617,Confucius Says,36073,ME,US,American IPA, Rotating,7.8,No notes at this time.,f
+204205,Salinenbräu Hell,43427,,DE,German Helles, Year-round,4.9,No notes at this time.,f
+309125,Proud Pilsner,47203,CA,US,Bohemian Pilsener, Rotating,5,No notes at this time.,f
+266306,ConocoGIN,47796,PA,US,American Brown Ale, Limited (brewed once),4.2,No notes at this time.,t
+159421,F.J.R. Imperial White IPA,1471,MI,US,American Imperial IPA, Limited (brewed once),4,No notes at this time.,t
+299638,Fashionably Late,24075,CO,US,Belgian Pale Ale, Limited (brewed once),6.5,No notes at this time.,t
+185758,Gooseberry Changeling,33013,BC,CA,Fruit and Field Beer, Rotating,4,No notes at this time.,f
+161903,Calypso,25622,TX,US,American IPA, Rotating,6.1,No notes at this time.,f
+158035,Sidewinder Red Ale,38898,CA,US,American Amber / Red Ale, Rotating,8.5,No notes at this time.,f
+163158,Tart,39455,TX,US,Fruit and Field Beer, Rotating,5,No notes at this time.,f
+274512,Off White Wit,48447,CA,US,Belgian Witbier, Rotating,5.4,No notes at this time.,f
+329304,Centennial IPA,45230,MN,US,American IPA, Limited (brewed once),7,No notes at this time.,f
+293021,Stout,49662,NY,US,American Stout, Year-round,7.8,No notes at this time.,f
+235277,Scovilliaus Maximus,31481,NC,US,Chile Beer, Rotating,9.3,No notes at this time.,f
+301262,SINGULARITY IPA,6045,,US,American IPA, Limited (brewed once),6.3,No notes at this time.,t
+27911,City Steam Amarillo IPA,556,CT,US,American IPA, Limited (brewed once),6.8,No notes at this time.,t
+29070,Alexander Keith's Red Amber Ale,6994,NS,CA,American Amber / Red Ale, Year-round,5,No notes at this time.,f
+296403,Princess,812,CA,US,Belgian Tripel, Limited (brewed once),8.3,Belgian Triple aged in California sparkling wine barrels for six months with 5% mixed culture saison.,t
+65818,Crystal Springs Pilsner,5115,CA,US,German Pilsner, Rotating,5.1,No notes at this time.,f
+125419,The Bunnyman White IPA,8776,MD,US,Belgian Witbier, Limited (brewed once),6,No notes at this time.,t
+343188,Hopocalypse White Label (Hazy Double IPA),3835,CA,US,American Imperial IPA, Rotating,8.4,No notes at this time.,f
+10353,Golden Pippin Ale,4808,GB2,GB,English Pale Mild Ale, Year-round,3.9,No notes at this time.,f
+365471,SMaSH 007,45955,WA,US,American IPA, Limited (brewed once),1,No notes at this time.,f
+332890,Chaos Monkey,51840,MO,US,German Hefeweizen, Rotating,5.5,No notes at this time.,f
+293019,Double IPA,49662,NY,US,American Imperial IPA, Year-round,8.8,No notes at this time.,f
+213923,Leffe Royale Mount Hood,470,,BE,Belgian Strong Dark Ale, Winter,7.5,No notes at this time.,f
+201839,Noble Oaf (Dry Hopped Edition),34640,ON,CA,Belgian Saison, Limited (brewed once),7.3,No notes at this time.,t
+358286,Kolsch,33108,NY,US,German Kölsch, Rotating,4.2,No notes at this time.,f
+185614,Quiet Ryeit,1482,NH,US,Rye Beer, Rotating,4.9,No notes at this time.,t
+88705,Victoria's Secret,19476,,DK,American Pale Wheat Ale, Limited (brewed once),6,No notes at this time.,t
+316540,Cranberry Hopped Shandy,43488,WI,US,Fruit and Field Beer, Rotating,4.8,No notes at this time.,f
+183651,Wet Hopped Blonde Ale,33735,CO,US,American Blonde Ale, Summer,5.5,No notes at this time.,f
+208774,Magic #3.5 - Pineapple Gose,25314,,SE,Leipzig Gose, Rotating,3.5,No notes at this time.,f
+149042,Coffee Vanilla Porter,29268,ON,CA,American Porter, Limited (brewed once),5,No notes at this time.,t
+36363,Pink Clouds Porter,10485,PA,US,American Porter, Limited (brewed once),5.8,No notes at this time.,t
+117786,Retro Red Ale,16816,MT,US,American Amber / Red Ale, Limited (brewed once),4.3,No notes at this time.,t
+16323,Old Detroit Alt Bier,1090,OH,US,German Altbier, Year-round,4.1,No notes at this time.,t
+157323,No. 21 Double IPA,34032,MN,US,American Imperial IPA, Year-round,9.5,No notes at this time.,f
+254110,Diet Starts Monday,42560,VA,US,American Imperial IPA, Rotating,8.5,"DIPA w/ Mandarin Orange and Vanilla. Brewed as a collaboration between Aslin, Ashburn Wine Shop, and Buffalo Wing Factory.",f
+244756,Rus,40035,MN,US,American Imperial Stout, Limited (brewed once),11.5,No notes at this time.,t
+133464,BeerZelis Fest Filtered,32846,,RU,German Märzen / Oktoberfest, Year-round,4.9,No notes at this time.,f
+198133,Visen,18228,,CZ,Fruit and Field Beer, Rotating,4,No notes at this time.,f
+145834,West Shefford Cette Sorte Là,1145,QC,CA,American Blonde Ale, Summer,4.8,No notes at this time.,f
+269254,The Nihilist,130,CO,US,American Barleywine, Limited (brewed once),14,Killer Penguin Barleywine aged 1 year in Breckenridge Bourbon barrels.,t
+110767,Out.Haus Ales IPA,33886,NH,US,American IPA, Year-round,6,No notes at this time.,f
+256314,Pilsen Paraguaya,34106,,PY,German Pilsner, Year-round,5,No notes at this time.,f
+349543,Twangy Banjo,46991,VA,US,American Pale Wheat Ale, Rotating,4.7,No notes at this time.,f
+66599,Double Rainbow,18120,CO,US,Belgian Saison, Limited (brewed once),14,No notes at this time.,t
+182540,Foraging For Herbs,20776,GB7,GB,American Amber / Red Ale, Limited (brewed once),4.7,No notes at this time.,t
+94351,Fo-Porter,13402,MI,US,American Porter, Rotating,6,No notes at this time.,f
+137639,Dochter Seizoen,27273,PA,US,Belgian Saison, Rotating,2.2,"This beer is a light and hoppy saison aged in wine barrels with our ever evolving house microflora. Notes of ripe fruity funk, subtle oak and that ineffable saison joie de vivre.",f
+44595,Sweetwater Motor Boat,273,GA,US,English Extra Special / Strong Bitter (ESB), Rotating,5.6,No notes at this time.,f
+50507,Ice Pick Ale,11675,CO,US,American IPA, Year-round,6.5,No notes at this time.,t
+170479,Oaked Barleywine,31059,CA,US,American Barleywine, Limited (brewed once),9,No notes at this time.,t
+324118,Roadside IPA,51015,FL,US,American IPA, Rotating,6,No notes at this time.,f
+212990,Bitter Bee,40030,,TH,English Extra Special / Strong Bitter (ESB), Year-round,1.5,No notes at this time.,f
+286427,12oz Abs,49405,KY,US,American Brown Ale, Rotating,4.5,No notes at this time.,f
+341546,Reality Bath,43007,TX,US,American Imperial IPA, Rotating,9.4,No notes at this time.,f
+105676,E'Te' Sans Fin,16205,FL,US,Belgian Saison, Rotating,5,No notes at this time.,f
+45337,Twain's Honest Lender Imperial Brown,6928,GA,US,American Brown Ale, Limited (brewed once),7.5,No notes at this time.,t
+53921,Dry Stout,21153,MO,US,Irish Dry Stout, Rotating,4.8,"Roasted coffee notes and slight malt bitterness from Black Barley, define this opaque dark Irish style ale. Pair this brew with smoked foods, roasts and desserts.",f
+185124,Tornado Alley Dry Hopped,4063,KS,US,American IPA, Rotating,5.5,No notes at this time.,f
+13303,Oktoberfest,780,BC,CA,German Märzen / Oktoberfest, Fall,6.2,No notes at this time.,t
+159635,The Mula IPA,38228,,AR,American IPA, Year-round,4.1,No notes at this time.,f
+57920,Žatec Dark Lager,4106,,CZ,European Dark Lager, Year-round,5.7,No notes at this time.,f
+354846,Wit Your Pants,32166,MI,US,American Pale Wheat Ale, Rotating,4.75,No notes at this time.,f
+42635,Ølfabrikken Skråplan,11063,,DK,American Strong Ale, Limited (brewed once),11,No notes at this time.,t
+316871,Hofbräu Winterzwickl,4686,,DE,German Kellerbier / Zwickelbier, Winter,5.5,No notes at this time.,f
+124117,Hup! Hup! Hup!,33510,NY,US,Belgian Pale Ale, Rotating,5.5,No notes at this time.,f
+153798,Color Field,32893,NY,US,American Wild Ale, Rotating,5.2,"Color Field is an American wild farmhouse ale brewed with hibiscus, rose hips, and chamomile. Produced with a mixed culture fermentation, it pours a hazy pink color topped with a fluffy white head. Tart aromas of lemon, black pepper, and earthy, gently perfumed botanicals mingle with classic saison funk. The soft, refreshing acidity is balanced by a hint of floral sweetness. This beer is never boiled and never filtered.",f
+256149,Spicy Hawaiian,19456,OK,US,German Hefeweizen, Rotating,5.1,Elevator Wheat Hefeweizen infused with pineapple and habanero peppers.,f
+332041,Porter For Princesses,27016,MA,US,American Porter, Rotating,6,No notes at this time.,f
+369700,Omnipresent,27289,GB2,GB,American IPA, Rotating,6.5,No notes at this time.,f
+173472,St. Bretta Citrus Wildbier Gold Nugget Mandarin,25191,CO,US,Belgian Witbier, Limited (brewed once),5.5,"Citrus zest from Gold Nugget Mandarin citrus as well as lemongrass. St. Bretta Gold Nugget is the first batch of our Brettanomyces Citrus Wildbier that is not named after a season. By moving away from seasonality, we are able to put the focus on the fruit itself and allow for greater experimentation.",t
+363932,Session IPA,53650,WI,US,American IPA, Rotating,2.2,No notes at this time.,f
+127131,Hiisi Rakki,35542,,FI,American Pale Ale (APA), Year-round,4.5,No notes at this time.,f
+70547,Blackberry Crimson Oat,1177,MN,US,American Amber / Red Ale, Rotating,6,No notes at this time.,t
+4228,Slam Dunkel Weizenbock,363,WA,US,German Weizenbock, Rotating,1.3,No notes at this time.,t
+92635,Four Spacious Skies,28535,NY,US,American Amber / Red Ale, Limited (brewed once),4,No notes at this time.,t
+279573,Nerka,48365,AK,US,Irish Red Ale, Rotating,4.7,No notes at this time.,f
+355031,Double dry hopped Zeus king of gods,49650,MA,US,American Imperial IPA, Rotating,8.5,No notes at this time.,f
+92464,Raisin Hell,18254,PA,US,Belgian Dark Ale, Limited (brewed once),10,No notes at this time.,t
+324785,Closing Campfire,51284,CO,US,American Pale Wheat Ale, Rotating,5.3,No notes at this time.,f
+244806,Agrumes,38906,QC,CA,American Blonde Ale, Rotating,6.6,No notes at this time.,f
+280165,Pear Katy,24428,MO,US,American Wild Ale, Limited (brewed once),5.2,No notes at this time.,t
+266014,Hans Trapp,42651,,NO,American Porter, Winter,7.5,No notes at this time.,f
+295807,The Henchman,28994,CA,US,American Wild Ale, Limited (brewed once),6.1,Barrel-Aged Feral Ale with Peaches & Nectarines,t
+47853,Distorter Porter,18254,PA,US,English Porter, Year-round,5.5,No notes at this time.,f
+261644,Great Lakes Crazy Canuck Brettanomyces Lambicus,9408,ON,CA,American Brett, Rotating,5.2,No notes at this time.,f
+47949,Courlieu,18003,QC,CA,Belgian Pale Ale, Rotating,5.9,No notes at this time.,f
+16736,East Chop Light(house) Lager,236,MA,US,American Light Lager, Rotating,4,No notes at this time.,t
+223966,Barrel Aged Maple Oatmeal Stout,22349,MA,US,American Imperial Stout, Limited (brewed once),10,No notes at this time.,t
+233983,Brock Street Bock,40319,ON,CA,German Bock, Spring,6,No notes at this time.,f
+49605,IPA,4698,CA,US,American IPA, Rotating,5.2,No notes at this time.,t
+260568,Cuvee Delphine - Cask Strength 4 Roses BA,15237,2,BE,Russian Imperial Stout, Limited (brewed once),13,Aged 1 year on 4 Roses bourbon barrels.,t
+314914,Double Buck IPA,50392,WA,US,American Imperial IPA, Year-round,7.5,No notes at this time.,f
+109654,Metanoia,10153,NC,US,American Wild Ale, Limited (brewed once),5.6,"Inoculated with wild yeast and matured in oak casks for nearly a year, flavors of sour grape skins meld with champagne-like effervescence yielding to a soft malted finish in our first patiently awaited sour experiment.",t
+257834,Funk Land Country Shuffle,1170,IN,US,American Wild Ale, Limited (brewed once),4,No notes at this time.,t
+48931,Neustadt Texas Tea Honey Stout,4028,ON,CA,English Sweet / Milk Stout, Rotating,5.8,"The use of all dark specialty malts makes this a very smooth drink. Enhanced with pure local honey to give a nice, sweeter mouth feel than a normal stout. “Absolutely no tea in the ingredients.”",f
+283788,Black Matter,47850,TX,US,English Oatmeal Stout, Year-round,8.6,No notes at this time.,f
+213162,Mulholland's Stash Barleywine,44152,CA,US,American Barleywine, Rotating,10.8,No notes at this time.,f
+25616,Rossa Gems,12131,,IT,German Bock, Year-round,6.5,No notes at this time.,t
+102264,Four Saisons,32996,GB6,GB,Belgian Saison, Year-round,2,No notes at this time.,f
+212886,NWC Radish Wheat,42539,MI,US,American Pale Wheat Ale, Rotating,5.8,No notes at this time.,f
+351881,The Point,47132,NJ,US,Belgian Pale Ale, Rotating,6,No notes at this time.,f
+175107,Cali IPA,27231,CA,US,American IPA, Limited (brewed once),6.2,No notes at this time.,t
+183448,Free Range,37773,MD,US,American IPA, Year-round,6,No notes at this time.,t
+251480,English IPA,1762,VA,US,English India Pale Ale (IPA), Rotating,5.5,No notes at this time.,f
+70805,Public House,267,CO,US,English Pale Mild Ale, Limited (brewed once),6,No notes at this time.,t
+141876,Party Dome,33631,ME,US,American Pale Ale (APA), Rotating,5.9,No notes at this time.,f
+93679,Remnant Of Dragon,25937,MI,US,American Imperial Red Ale, Rotating,9,No notes at this time.,f
+167069,Sheldon,37016,MA,US,American Brown Ale, Year-round,7,No notes at this time.,f
+11279,Barkeater Amber Ale,1888,NY,US,American Amber / Red Ale, Spring,5,No notes at this time.,f
+262196,Longest Night,37532,TX,US,American Imperial Stout, Rotating,11.5,No notes at this time.,f
+59594,Adnams Spindrift,779,GB2,GB,English Pale Ale, Rotating,5,No notes at this time.,f
+254891,X-1 008,43537,MA,US,American IPA, Limited (brewed once),6.7,No notes at this time.,t
+33533,Redwood Lodge American Dark,3475,MI,US,American Amber / Red Lager, Rotating,3,No notes at this time.,t
+298992,All Is Lost!,50290,IL,US,American Pale Ale (APA), Rotating,5.5,No notes at this time.,f
+255404,38 State Red Ale,36581,CO,US,American Amber / Red Ale, Rotating,6.8,No notes at this time.,f
+29719,Bière Du Père,12,MA,US,Belgian Witbier, Spring,5,No notes at this time.,t
+121691,Rebel Alliance,33347,CA,US,American Imperial Stout, Limited (brewed once),10,No notes at this time.,t
+228287,Vanilla Oak (Six Ways),12172,,SE,American Imperial Stout, Limited (brewed once),10,No notes at this time.,t
+173204,Louise,30965,IL,US,Belgian Pale Ale, Rotating,4.2,No notes at this time.,f
+356888,Trailblazer,47873,AR,US,American IPA, Rotating,7.1,No notes at this time.,f
+251681,Father Christmas - Cabernet Barrel Aged,39158,FL,US,Belgian Strong Dark Ale, Limited (brewed once),11,Our Father Christmas aged on Cabernet Barrels. Originally released in 2016.,t
+264790,Night Of Terror,37552,TX,US,American Imperial Stout, Rotating,15,No notes at this time.,f
+183523,Muscle Memory,41719,CO,US,American Pale Ale (APA), Year-round,4.5,"A generous helping of oats make this Third Wave Pale Ale dangerously drinkable. Bursting with grapefruit, orange marmalade, passion fruit, and peach.",f
+228953,Tr-Hop-ical Storm,34076,FL,US,American Imperial IPA, Rotating,8.8,No notes at this time.,f
+358460,11 Barrel,36366,FL,US,American IPA, Rotating,7.1,No notes at this time.,f
+134830,Postulate,30026,IN,US,American IPA, Rotating,7,No notes at this time.,f
+45366,Pumpkin Bock,16060,NC,US,German Bock, Fall,7.2,No notes at this time.,f
+69162,Schlappeseppel Export,5964,,DE,European Export / Dortmunder, Year-round,5.6,No notes at this time.,f
+29471,BSH (Back Street Heroes),18,GB2,GB,English Extra Special / Strong Bitter (ESB), Limited (brewed once),4.5,No notes at this time.,t
+372489,Always Eatin' Dinner,30321,CT,US,American IPA, Rotating,6.5,No notes at this time.,f
+64893,Sorcerer,19544,OH,US,Belgian Strong Dark Ale, Rotating,9,"Dark ruby brown Belgian style strong ale with complex flavors reminiscent of dried fruits. The sweet hints of raisin, fig and plum are accentuated with rock candy sugar then warmed away by the strength of the dry alcoholic finish.",f
+364952,Who Hopped Ya?,46420,NC,US,American IPA, Limited (brewed once),7.1,No notes at this time.,f
+356690,Motueka Incandenza,44599,NY,US,American IPA, Rotating,6,No notes at this time.,f
+181544,Iced Tea,38826,GB6,GB,Herb and Spice Beer, Year-round,5,No notes at this time.,f
+342410,Blackberry Raspy,10607,NY,US,Fruit and Field Beer, Limited (brewed once),4.5,"Double the fruit of the original Lil' Raspy formulation, now with equal parts raspberries and blackberries.",f
+169493,Hefe Shandy,8,OR,US,German Hefeweizen, Summer,4.2,"The original American Hefeweizen gets a bold, new citrus aroma and flavor from lemon drop hops & natural lemonade flavor.",f
+93000,Trashmaster 2013,28753,ME,US,Russian Imperial Stout, Rotating,9,No notes at this time.,t
+208775,Magic #8 - Maple Candied Almond Pale,25314,,SE,American Pale Ale (APA), Rotating,5,No notes at this time.,f
+190453,Whirlpool,22928,NY,US,Belgian Pale Ale, Limited (brewed once),2,No notes at this time.,t
+359495,Bamboozled,51069,CA,US,American Imperial IPA, Limited (brewed once),8.3,No notes at this time.,f
+364468,Cantillon à l'Ecossaise,388,,BE,Belgian Fruit Lambic, Limited (brewed once),4,"At the end of last year, Cantillon sent a Kriek barrel to Arran in Scotland to be filled with local Whisky. The Whisky was bottled after 4 months maceration and the barrel was sent back to Cantillon. We refilled the barrel with cherries and a 2 years old Lambic. The beer was kegged after 4 months of fermentation.",f
+361284,Verbal Hologram,15824,WA,US,American IPA, Rotating,6.9,No notes at this time.,f
+73374,Black Oak Cafe Au Lait,853,ON,CA,English Sweet / Milk Stout, Limited (brewed once),8,No notes at this time.,t
+171464,Blue Mountain Pilsner,32900,PA,US,German Pilsner, Rotating,4.5,No notes at this time.,t
+367916,Peachacalypse,44216,CO,US,Wild/Sour Beers, Limited (brewed once),5.5,No notes at this time.,f
+326603,Blackberry Coffee Latte,18316,PA,US,American IPA, Limited (brewed once),7,No notes at this time.,f
+224223,Possible Worlds,28439,CO,US,American IPA, Rotating,5,No notes at this time.,t
+20025,Four C's American Pale Ale,2470,OH,US,American Pale Ale (APA), Rotating,6,Formerly Ringneck 4 C's Pale Ale.,f
+95292,Robust Porter,5408,MN,US,Robust Porter, Rotating,5.6,No notes at this time.,f
+66710,Abstrakt AB:05,16315,GB6,GB,Russian Imperial Stout, Limited (brewed once),12.5,Belgian Imperial Stout aged on toasted coconut and cacao.,t
+289032,Czar Face (Bourbon Barreled),36536,FL,US,American Imperial Stout, Rotating,9,No notes at this time.,f
+336320,Kees / De Molen Lapsang Souchong,39015,,NL,German Altbier, Limited (brewed once),6,No notes at this time.,f
+318274,Rye Bread Porter,43272,IL,US,American Porter, Year-round,6.2,No notes at this time.,f
+215070,Weird Beard / Bexar County A Lemon Tree My Dear Watson,31624,GB2,GB,American Pale Ale (APA), Limited (brewed once),3.7,No notes at this time.,t
+112254,Too Nice Yams,32784,AL,US,Fruit and Field Beer, Rotating,6.8,No notes at this time.,f
+126566,Sheep Stealer,35390,,IE,Belgian Saison, Year-round,5.75,No notes at this time.,f
+50695,Pilsener,8263,,DK,European Pale Lager, Year-round,4.6,No notes at this time.,f
+315949,What Else Is New?,44957,,IE,Belgian Quadrupel (Quad), Rotating,9,No notes at this time.,f
+295354,Lawn American Cream Ale,34274,NY,US,American Cream Ale, Rotating,4.7,No notes at this time.,f
+355756,Strap-Ons,31849,MD,US,American IPA, Limited (brewed once),7.1,Brewed and double dry-hopped with Idaho 7 and Azzaca,f
+151883,Jolly Abbot Barley Wine,37303,VT,US,American Barleywine, Rotating,13,Sour Belgian Barleywine,f
+337085,Session IPA,43189,,CL,American IPA, Rotating,4.5,No notes at this time.,f
+117077,CircumSaison,21329,TN,US,Belgian Saison, Rotating,8.2,No notes at this time.,f
+82106,Maiden Voyage,17981,FL,US,American IPA, Limited (brewed once),7.5,No notes at this time.,t
+58429,Heavy Seas Bourbon Barrel Aged Below Decks,898,MD,US,British Barleywine, Rotating,10,No notes at this time.,t
+236736,The CREATURE From The BROWN LEGUME,39756,IA,US,American Brown Ale, Limited (brewed once),5.8,No notes at this time.,t
+296594,Acid Queen,50051,,FR,Belgian Pale Ale, Rotating,6.2,No notes at this time.,f
+99847,The Big Nasty,394,PA,US,American Imperial IPA, Limited (brewed once),10.5,No notes at this time.,t
+317718,International Relations IPA,17271,CA,US,American IPA, Limited (brewed once),7,No notes at this time.,f
+157012,Stauffenberg Stout,3792,NM,US,American Stout, Rotating,6,No notes at this time.,f
+344498,Citronic Sessions,30492,NM,US,American IPA, Rotating,4.8,No notes at this time.,f
+40678,Cuvée Alex Le Rouge (Jurassian Imperial Stout),2958,,CH,American Imperial Stout, Rotating,10.28,No notes at this time.,f
+97537,Templeton Session Style Ale,29744,CA,US,German Kölsch, Rotating,4.5,Templeton Session Style Ale – Crisp | Gooseberry | Lychee,f
+233274,Over The Barrel - Grape,27642,WI,US,Fruit and Field Beer, Year-round,5.5,No notes at this time.,t
+330000,Masala,47779,PA,US,Belgian Dubbel, Rotating,5,No notes at this time.,f
+63237,Patriot Pale,23413,,NZ,American Pale Ale (APA), Rotating,4,No notes at this time.,f
+181449,Nikolai Vorlauf - Double Barrel Aged,31805,FL,US,Russian Imperial Stout, Rotating,10.5,No notes at this time.,f
+180667,Barrel-Aged Chocolate Rye Porter With Blood Orange,36487,OH,US,American Porter, Rotating,8.5,No notes at this time.,f
+266781,Bravo! Bravo!,40752,NY,US,American IPA, Limited (brewed once),5.6,An IPA that blends a classic hop combination of Cascade and Columbus with a newer varietal called Bravo. This combination creates layers of flavor that tickle your tongue with zesty citrus and resinous pine notes. Your palate is sure to applaud this dank and juicy ale.,t
+342621,Maibock,26458,PA,US,German Maibock, Rotating,7,No notes at this time.,f
+53520,Pilsner,6269,WA,US,German Pilsner, Rotating,4,No notes at this time.,t
+16371,Belfast Ale,3415,GB5,GB,English Pale Ale, Year-round,4.5,"A dark amber ale with a wonderful rich malt flavour and earthy aroma, brewed with three different hop varieties creating a distinctive bitterness and smooth finish.",f
+6410,Allgäuer Festbier,890,,DE,German Märzen / Oktoberfest, Year-round,5.5,No notes at this time.,f
+3272,Raven Stout,586,NH,US,American Stout, Rotating,4.1,No notes at this time.,t
+125790,Bohemian Pils,29944,OR,US,German Pilsner, Year-round,5.3,No notes at this time.,f
+93912,Lupulin Shake,30028,CA,US,American Pale Wheat Ale, Rotating,5.6,No notes at this time.,f
+115639,Chocolate Milk Stout,30726,CO,US,English Sweet / Milk Stout, Year-round,5,No notes at this time.,f
+223440,Ginger Catching Up,27276,CA,US,American IPA, Limited (brewed once),7.1,No notes at this time.,t
+104624,De Ranke Hop Harvest 2013,739,,BE,Belgian IPA, Limited (brewed once),6,No notes at this time.,t
+359580,Tropic Junction,40054,CO,US,American Wild Ale, Rotating,6.4,No notes at this time.,f
+100394,Achilles Field,2972,CO,US,Belgian Saison, Limited (brewed once),5.6,"A Saison that highlights the earthy flavors and aromas of Yarrow, which grows all over Denver.",t
+232332,Marketing Ploy,1151,IL,US,American IPA, Rotating,4.1,No notes at this time.,f
+12661,Lava Rock Porter,1345,WA,US,American Porter, Year-round,7,No notes at this time.,f
+205277,Smoked Porter,43294,CO,US,Smoke Porter, Rotating,4.2,No notes at this time.,f
+338991,Big Stitch Nick,52370,DE,US,American Pale Ale (APA), Limited (brewed once),5.6,No notes at this time.,f
+322438,Everything Sucks,34104,NY,US,American IPA, Limited (brewed once),6.9,No notes at this time.,f
+96469,Imperial IPA,26634,KS,US,American Imperial IPA, Rotating,9,No notes at this time.,f
+102994,Wheat Stout,32922,CA,US,American Stout, Rotating,5,No notes at this time.,f
+73242,Lakrids #1 (Piratos),26816,,DK,American Porter, Limited (brewed once),4.9,No notes at this time.,t
+309423,Kendi,3474,OH,US,American Black Ale, Rotating,6.5,No notes at this time.,f
+366173,Rodolfo,39308,MA,US,Berliner Weisse, Limited (brewed once),5.1,No notes at this time.,f
+10752,Hoof-E-Weizen,5076,OR,US,German Dunkelweizen, Year-round,5.2,No notes at this time.,t
+38224,Point Oktoberfest,786,WI,US,German Märzen / Oktoberfest, Fall,4.9,No notes at this time.,f
+40284,Double Hop,1903,NE,US,American IPA, Limited (brewed once),2.1,No notes at this time.,t
+244227,DIPA,46042,,UA,American Imperial IPA, Year-round,6.7,No notes at this time.,f
+294661,Fresh Coast - Mosaic,28879,WI,US,American Pale Ale (APA), Limited (brewed once),4.8,No notes at this time.,t
+117966,Shadow Watcher,16503,MI,US,American Stout, Year-round,5.2,No notes at this time.,f
+334777,Soorj Coffee Stout,32705,CA,US,American Imperial Stout, Rotating,7.7,No notes at this time.,f
+334022,Beverly Crusher,45563,GB2,GB,American Pale Ale (APA), Limited (brewed once),5.3,No notes at this time.,f
+269595,Southbay Blonde,34207,CA,US,American Blonde Ale, Rotating,5.1,No notes at this time.,f
+218819,256 Extra Pale Ale,28529,AL,US,American Pale Ale (APA), Rotating,5.2,No notes at this time.,f
+136031,Southern Dobis Pale Ale (Cask) W/ Citra Hops,32931,CA,US,American IPA, Limited (brewed once),6.1,No notes at this time.,t
+42118,Dropkick Dunkle,1115,TX,US,Munich Dunkel Lager, Rotating,5.2,No notes at this time.,t
+363114,Clip Art - Azacca,52954,MA,US,American IPA, Rotating,7.2,No notes at this time.,f
+114652,Damn Straight,28920,CA,US,American IPA, Rotating,7.1,No notes at this time.,t
+230553,Outcast Amber,12471,WA,US,American Amber / Red Ale, Year-round,6.5,No notes at this time.,f
+253833,American Style Pale Wheat Ale,35501,,IE,American Pale Wheat Ale, Limited (brewed once),5,No notes at this time.,t
+24045,Wowzers Summer Wheat,2617,TN,US,American Pale Wheat Ale, Summer,4,No notes at this time.,f
+135126,BeerZelis Chernoe,32846,,RU,German Schwarzbier, Year-round,4.5,No notes at this time.,f
+121679,White IPA,33418,CA,US,American IPA, Rotating,6.2,No notes at this time.,f
+243882,Tipperyery Stout,39446,TX,US,Irish Dry Stout, Rotating,5.3,No notes at this time.,f
+93295,Houblon Or,1135,MD,US,Belgian Pale Ale, Rotating,6.4,No notes at this time.,f
+242576,Imperial Brown Ale,46661,CO,US,American Brown Ale, Limited (brewed once),8,No notes at this time.,t
+15294,Koff Velvet III,264,,FI,German Schwarzbier, Year-round,4.7,No notes at this time.,t
+304006,Double Nap (Wet Hopped Double Tap),27322,CA,US,American Imperial IPA, Limited (brewed once),8.5,No notes at this time.,t
+163587,Hopsquatch II,1162,IN,US,American IPA, Rotating,6.8,No notes at this time.,f
+182321,One Goal. One Rye'd,37078,OH,US,Rye Beer, Rotating,5.4,No notes at this time.,f
+73989,Keltek King,3365,GB2,GB,English Extra Special / Strong Bitter (ESB), Year-round,5.1,No notes at this time.,f
+336915,Friends Forever,34258,MI,US,American IPA, Rotating,6.5,"Our friends forever from BLiS came down to help package our latest collab, aptly named, “Friends Forever”. Double dry-hopped with Citra, El Dorado, Amarillo, Mandarina, and Motueka",f
+345700,Stoutlandish,36754,CA,US,English Sweet / Milk Stout, Rotating,5.3,No notes at this time.,f
+330489,Twisted Root,1683,NM,US,American Blonde Ale, Winter,5.7,No notes at this time.,f
+106490,Big Doedish,25963,MI,US,American Imperial IPA, Year-round,9.2,No notes at this time.,f
+285444,Barn Phantom Gose With Mango,27037,IN,US,Leipzig Gose, Limited (brewed once),4,No notes at this time.,t
+168672,Rolling Hills Pils,3865,WV,US,Bohemian Pilsener, Rotating,4.9,No notes at this time.,f
+193766,Fritzicuffs,32212,IL,US,German Pilsner, Rotating,5,No notes at this time.,f
+118228,Red Honey Ale,34390,,CN,American Pale Ale (APA), Year-round,5.5,No notes at this time.,f
+193276,Nitro Chocolate Vanilla Orange Porter,37521,FL,US,American Porter, Limited (brewed once),6.8,No notes at this time.,t
+372107,Sabuccino Sessanta Stout,18316,PA,US,American Imperial Stout, Rotating,11,No notes at this time.,f
+239305,Cucumber Pale Ale,37596,MT,US,American Pale Ale (APA), Rotating,5.3,No notes at this time.,f
+320943,Bronzen Schild Belgian Tripel Ale,48,,BE,Belgian Tripel, Year-round,10.5,No notes at this time.,f
+36008,American Bitter Pale Ale,4016,FL,US,American IPA, Rotating,4.2,No notes at this time.,f
+282829,ISO: Chuck Biscuits FT: Simcoe,30179,OH,US,Leipzig Gose, Rotating,4.5,No notes at this time.,f
+114805,Beelzebub,46317,VT,US,American Imperial Stout, Rotating,8,"Beelzebub is an American Imperial Stout. The intensely smooth and rich roasted flavor is complemented by the unmistakable presence of hops. The bitterness is held in check, preserving the flavors of dark chocolate. This ale is aggressively dry hopped with Citra to cut through it all. Hail Santa.",f
+196566,Amber Ale,40392,NJ,US,American Amber / Red Ale, Rotating,6.5,No notes at this time.,f
+82008,Schönbuch Ur-Edel,3105,,DE,European Export / Dortmunder, Year-round,4.8,No notes at this time.,f
+234786,La Franc Bois,28362,QC,CA,Fruit and Field Beer, Rotating,4.5,No notes at this time.,f
+139809,11 Amp,24326,TX,US,American IPA, Rotating,7.2,No notes at this time.,f
+290123,Fat Cat Unique Pale Ale,32228,,CZ,American Pale Ale (APA), Limited (brewed once),3.8,No notes at this time.,t
+173354,Chocolate Hazelnut Porter,40535,CA,US,American Porter, Rotating,6.4,No notes at this time.,f
+270005,Hopbominable Snowmonster,22656,OH,US,American Imperial Stout, Rotating,8.1,No notes at this time.,t
+41902,Rousse Forte à La Canneberge Et Aux Épices,2248,QC,CA,Herb and Spice Beer, Winter,7.5,No notes at this time.,t
+13526,Centennial King IPA,2919,OR,US,American IPA, Year-round,3.3,No notes at this time.,t
+357297,Finest Kind,32495,NS,CA,American Pale Ale (APA), Summer,5.3,No notes at this time.,f
+281427,Green Card,25327,DC,US,American IPA, Limited (brewed once),3,No notes at this time.,t
+343042,Sentencio,50253,,PL,American IPA, Rotating,4.4,No notes at this time.,f
+117366,Bastille,32115,OH,US,French Bière de Garde, Rotating,4.25,No notes at this time.,f
+164761,Kruzhka Svezhego,7390,,KZ,European Pale Lager, Year-round,4.4,No notes at this time.,f
+228168,Doble IPA,34233,,MX,American Imperial IPA, Rotating,3,No notes at this time.,f
+372229,Astrolabe,53941,,AU,French Bière de Garde, Rotating,7.4,No notes at this time.,f
+107413,PJW 30th Anniversary Ale,345,PA,US,American IPA, Year-round,5,No notes at this time.,f
+105472,Deluxe Spring Lager,29335,WA,US,American Lager, Spring,6.2,No notes at this time.,f
+261669,Saison Lemon Sour,38354,GB2,GB,Berliner Weisse, Year-round,4,No notes at this time.,f
+157034,Belgian Pale,24411,IN,US,Belgian Pale Ale, Rotating,3,No notes at this time.,f
+232496,La Radieuse,45819,,FR,Belgian Witbier, Year-round,5.9,No notes at this time.,f
+267644,Euclid Special Bitter,45736,OH,US,English Extra Special / Strong Bitter (ESB), Rotating,4.7,No notes at this time.,t
+204072,Bierhaus Light,1712,,RU,American Light Lager, Year-round,4,No notes at this time.,f
+164191,Bramble On,34647,CO,US,German Kölsch, Rotating,6.7,No notes at this time.,f
+142559,Odlo Lievraake,2361,,BE,Belgian Witbier, Year-round,5.9,No notes at this time.,f
+361174,Diamond Street Double,45113,NY,US,American Imperial IPA, Rotating,7.5,No notes at this time.,f
+341236,Union Bhoys Lager,49143,AB,CA,European Pale Lager, Year-round,4.5,No notes at this time.,f
+64616,Café Negro Coffee Infused Porter,43,OR,US,American Porter, Year-round,5.5,OG: 13.4,f
+182201,Cit-Rawr,24817,CO,US,American Imperial IPA, Rotating,8,No notes at this time.,f
+85269,Mint Stout,22564,MI,US,American Stout, Limited (brewed once),3,No notes at this time.,t
+70231,Bière De Printemps De L'Oncle HANSI,3219,3,FR,Belgian Pale Ale, Spring,5.2,No notes at this time.,f
+233880,Alphaholic,45702,AR,US,American Imperial IPA, Rotating,8.5,No notes at this time.,f
+34164,Rye Of The Tiger IPA,73,OH,US,American IPA, Rotating,7.5,No notes at this time.,f
+128056,Birming-Hambic,25916,AL,US,Belgian Fruit Lambic, Limited (brewed once),6.1,No notes at this time.,t
+113132,Ruby Crystal Mandarina - Lemon Extract And Kaffir Lime Leaves,1199,MI,US,American Amber / Red Ale, Limited (brewed once),4.6,No notes at this time.,t
+155236,Jami,24678,MI,US,German Rauchbier, Limited (brewed once),7,Bourbon Barrel Aged Ancho Rauchbier,t
+169540,Coalesce,37514,CT,US,American Imperial IPA, Rotating,7.8,No notes at this time.,f
+329056,Freckle Face,43889,CA,US,Berliner Weisse, Rotating,4,No notes at this time.,f
+110967,Dark Horse,21448,CA,US,Belgian Quadrupel (Quad), Limited (brewed once),10.9,No notes at this time.,t
+158953,Shades Of Amber,38916,CA,US,American Amber / Red Ale, Year-round,5,No notes at this time.,f
+6367,Town Hall Maibock,1177,MN,US,German Maibock, Spring,6.7,No notes at this time.,f
+254485,Treble Hook Tripel,12496,MT,US,Belgian Tripel, Fall,8.6,"Nothing beats living on Flathead Lake besides fishing on Flathead Lake! So we had to name our Tripel in honor of the mighty three hook treble fishhook used by fishermen here in Montana. Our version pairs distinct Belgian yeast and mild sweetness. The aroma and flavor run complex: tart citrus, yeast, malty, apple, pear, white grape, alcohol warming, with a dry and spicy finish. Malt: pilsner, wheat, honey, and Turbinado sugar. Hops: Golding.",f
+339320,Mango My Tango,49413,FL,US,Belgian Witbier, Rotating,5.1,No notes at this time.,f
+65978,1811 Pre-Prohibition Lager,16077,OR,US,American Adjunct Lager, Year-round,5.1,Ingredients (label):,f
+337194,Modest Molly,52394,VA,US,American IPA, Rotating,6.2,No notes at this time.,f
+184344,Schwarz IPA,41807,VA,US,German Schwarzbier, Rotating,6.9,"All of your delicious malty flavors with the hops that you want in an IPA. Sit back and enjoy the delicious malts with the fruity aroma and bitterness of hops. If you’re looking for an IPA on our menu, try this twist on the popular beer.",f
+348603,Doctor's Orders,36739,IL,US,American Imperial IPA, Rotating,8,No notes at this time.,f
+366989,Södvik Säsong 2018,22537,,SE,Belgian Saison, Limited (brewed once),6.5,No notes at this time.,f
+170331,Hopop Hetbop,9529,KY,US,Belgian Pale Ale, Limited (brewed once),7,No notes at this time.,t
+233486,Brett Hop Harvest Saison,35479,NE,US,Belgian Saison, Limited (brewed once),6,No notes at this time.,t
+214000,Luponic Plague,34453,CA,US,American IPA, Rotating,6.6,No notes at this time.,f
+306180,Knightman Cometh,34453,CA,US,American Stout, Limited (brewed once),6.1,No notes at this time.,f
+20761,Piper Doon,1819,,US,Scotch Ale / Wee Heavy, Rotating,5.9,No notes at this time.,t
+354706,Double Dry Hopped Snapper,34285,MO,US,American IPA, Rotating,7.2,No notes at this time.,f
+129299,Claymore Scotch Ale,2972,CO,US,Scotch Ale / Wee Heavy, Rotating,7.9,No notes at this time.,f
+346799,Santas Calaveras CHIPOTE-LES,52842,,BE,Belgian Saison, Rotating,6,No notes at this time.,f
+168783,Beagle Fuegian Cream Stout,30632,,AR,English Stout, Year-round,6.2,No notes at this time.,f
+130410,Cream Ale,34327,OR,US,American Cream Ale, Year-round,5.7,IBU 19,f
+327646,Sebright Golden Ale,51619,GB2,GB,American Blonde Ale, Year-round,3.8,No notes at this time.,f
+47722,Whitcomb Wit,7302,VT,US,Belgian Witbier, Rotating,4.4,No notes at this time.,f
+20862,Düsseldorf Alt,9792,NC,US,German Altbier, Rotating,3,No notes at this time.,t
+231771,Honey Ginseng Ale,2313,NV,US,Herb and Spice Beer, Limited (brewed once),2.9,No notes at this time.,t
+32524,Traffic Jam Grand Theft Pilsner,2094,MI,US,German Pilsner, Rotating,6,No notes at this time.,t
+104619,Noroc,1704,,RO,European Pale Lager, Year-round,4.5,No notes at this time.,f
+122825,Black Eye,34986,GB2,GB,American Stout, Year-round,7.3,No notes at this time.,f
+132446,Le Peche Mode,32375,GA,US,Belgian Saison, Year-round,6,"Classic saison brewed with natural Georgia peach juice from Lane Orchards. The peaches add a subtle fruit complexity and tartness to this traditional farmhouse ale. Unfiltered and bottle conditioned, this beer delivers a refreshing malt character and a long, dry finish.",f
+154501,(2014) Bourbon Barrel Aged Dark Territory Imperial Stout,31384,LA,US,Russian Imperial Stout, Rotating,8.1,No notes at this time.,f
+48891,Barrio NCAAle,16813,AZ,US,American Strong Ale, Spring,9.2,Brewed annually for the Wildcat basketball. Traditional English double strong ale that boasts a huge full bodied malt flavor and mellows with age.,f
+276182,That's My Jam,36710,FL,US,American IPA, Rotating,7,No notes at this time.,f
+316554,Citra S.M.A.S.H. IPA,19776,TN,US,American IPA, Year-round,6,No notes at this time.,f
+232510,Fox Devil Wild,30871,OH,US,Belgian Strong Pale Ale, Limited (brewed once),9.5,No notes at this time.,t
+147648,Cinnabock,34748,IL,US,German Doppelbock, Limited (brewed once),7.8,No notes at this time.,t
+193018,Fuck Donald Trump,39185,,DK,German Hefeweizen, Limited (brewed once),5.3,No notes at this time.,t
+48758,King St Wharf Pale Ale,13059,,AU,English Pale Ale, Limited (brewed once),2.8,No notes at this time.,t
+204453,Highland IPA,811,NC,US,American IPA, Year-round,7,"A statement from Appalachia. American Chinook, Citra, and Centennial hops from the Pacific Northwest shine in our first West Coast style IPA. A sturdy malt bill frames hints of tropical fruit, lemon rind, grapefruit and dank hops notes. Brilliant and golden in color. expect a dry, resiny, citrusy finish.",f
+354808,Vasaros Griausmas,44471,,LT,American Blonde Ale, Year-round,4.7,No notes at this time.,f
+195185,Bambi Malná Sör,32365,,HU,Fruit and Field Beer, Rotating,4.8,No notes at this time.,f
+186412,Consumption,37910,VA,US,Berliner Weisse, Rotating,3.4,No notes at this time.,f
+190144,Mr. Manager,39892,OH,US,American Pale Ale (APA), Year-round,6,No notes at this time.,t
+197015,Parklet ISA,41330,CA,US,American IPA, Year-round,4.7,No notes at this time.,f
+110553,Southern Sky French Pale Ale,33827,OR,US,American Pale Ale (APA), Rotating,5.8,No notes at this time.,f
+5568,Calistoga Pilsner,845,CA,US,Bohemian Pilsener, Year-round,4.8,No notes at this time.,f
+103069,Chalkstream,29224,GB2,GB,English Bitter, Summer,5,No notes at this time.,f
+70091,Sayonara IPA,6045,,US,American IPA, Rotating,6.8,No notes at this time.,f
+313344,Always and Forever,33510,NY,US,American Imperial IPA, Rotating,7.8,"Always and Forever Imperial IPA (7.8%) is the imperial version of Forever Ever hopped with Amarillo, Mosaic, Citra and Azacca.",f
+314096,Javanog Cream Stout,35374,NC,US,English Sweet / Milk Stout, Winter,8.2,No notes at this time.,f
+45598,'t Smisje Kuvee Elektrik 979W,322,,BE,Belgian Strong Dark Ale, Rotating,9,No notes at this time.,f
+334717,Cask-It Series DNR Tequila Barrel Aged,19456,OK,US,Belgian Strong Dark Ale, Limited (brewed once),12.1,No notes at this time.,f
+370750,Play Dead IPA,53748,VA,US,American IPA, Rotating,7,No notes at this time.,f
+59074,L'Amarante,11753,,BE,Herb and Spice Beer, Rotating,7.5,No notes at this time.,f
+272671,Crush Kill Destroy,44293,NY,US,American IPA, Rotating,6.7,No notes at this time.,f
+11979,Altman's Alt,2972,CO,US,German Altbier, Rotating,2.9,No notes at this time.,t
+33245,Lager of The Lakes,287,MI,US,Bohemian Pilsener, Year-round,5,"Following in the tradition of Czech Pilsners by offering a combination of firm malt and herbal hop bitterness, Bell’s Lager of the Lakes is as refreshing and crisp as a swim in the Great Lakes.",f
+341591,Dunkelweizen,51109,WY,US,German Dunkelweizen, Rotating,4.5,No notes at this time.,f
+170256,Bubble Head With Blood Orange Juice & Zest,36186,CA,US,American Pale Ale (APA), Limited (brewed once),5.4,No notes at this time.,t
+186214,Hummingbird Springs Saison,32656,AZ,US,Belgian Saison, Limited (brewed once),3.5,"In the early farming season of Wallonia, the farm hands would sip a refreshing drink that would be later named ""Saison"". During the later parts of the work season, the temperatures would be at their highest, and the beers at their ""funkiest"". Without modern technology like refrigeration, these beers would develope acidity and some rather funky off flavors due to the storage conditions. They were dry, acidic and quenching to say the least. We wanted to re create the process in this beer,l (minus the major funk) by developing lactic acid and matching that with the breadiness of Sonoran White Wheat, and the unique profile of French Saison Yeast. Many of our favorite farmhouse Saisons utilize the dry hopping method to add a resinous depth, as we did with Jarrylo hops in this beer.",t
+296309,Bayrisch Hefeweizen,50071,,DE,German Hefeweizen, Year-round,5.3,No notes at this time.,f
+244831,Cherry Razz Sour,9558,NY,US,Fruit and Field Beer, Limited (brewed once),4.75,No notes at this time.,t
+255651,Safe Passage,45104,WI,US,American Porter, Rotating,6,No notes at this time.,f
+252470,Glutenberg Myrcène De Glace (Baril Unique),26534,QC,CA,Rye Beer, Limited (brewed once),10,No notes at this time.,t
+250108,Doughboy Munich Dunkel,47123,VA,US,Munich Dunkel Lager, Year-round,4.8,No notes at this time.,f
+361104,Neapolitan Medianoche,38773,CO,US,American Imperial Stout, Rotating,14.9,No notes at this time.,f
+280271,Extreme Green IPA,32798,WI,US,American Imperial IPA, Rotating,5,No notes at this time.,f
+222999,Orange Blossom Saison,43482,VA,US,Belgian Saison, Rotating,6,"This farmhouse-style saison features honey from the orange groves of Florida. While this beer has a lovely clean and dry finish, the honey brings a slight sweetness. The golden hue and big frothy head make a perfect Spring beer.",f
+93952,Durlacher Hof Hefeweissbier,16422,,DE,German Hefeweizen, Year-round,5.3,No notes at this time.,f
+30838,Doc Mason's XPA,1337,CA,US,American Pale Ale (APA), Rotating,1.4,No notes at this time.,t
+165675,Nebraska,29180,CA,US,Belgian Saison, Rotating,6.3,No notes at this time.,f
+60624,Rye Pale Ale,2435,NM,US,Rye Beer, Rotating,5.6,No notes at this time.,t
+40046,Marzoni's Wheat Wine,7101,PA,US,American Wheatwine Ale, Winter,10,No notes at this time.,t
+283343,Fruit Bat Blueberry,46970,AB,CA,Fruit and Field Beer, Rotating,4.3,No notes at this time.,f
+124458,Noble Provisions,29200,CA,US,Belgian Saison, Limited (brewed once),6,No notes at this time.,t
+354019,Mikrozirkus 11 - Wilde Quitte,52116,,AT,American Wild Ale, Limited (brewed once),6,No notes at this time.,f
+145303,Saison Multigrain,32755,QC,CA,Belgian Saison, Rotating,7.5,No notes at this time.,f
+338213,The Town Tart,34312,CO,US,American Wild Ale, Limited (brewed once),4.2,No notes at this time.,f
+351327,Beta #22 Mosaic & Enigma New England DIPA,38748,,SE,American Imperial IPA, Limited (brewed once),7.8,No notes at this time.,f
+107219,Billie,13295,GB2,GB,English Bitter, Rotating,3.8,No notes at this time.,f
+1921,Boundary Waters Golden Lager,88,WI,US,German Kellerbier / Zwickelbier, Year-round,2.4,No notes at this time.,t
+295098,Funked Up Series #30: Campo,31901,MN,US,American Wild Ale, Limited (brewed once),6,No notes at this time.,t
+146391,Dark End Of The Wheat,32770,MO,US,American Dark Wheat Ale, Rotating,4.9,No notes at this time.,f
+77110,Yuletide 2011,1178,MN,US,Herb and Spice Beer, Limited (brewed once),5.8,No notes at this time.,t
+140512,Watermelon Radler,33825,ID,US,Fruit and Field Beer, Rotating,3.3,No notes at this time.,f
+97030,Golden Spike Wheat,31384,LA,US,German Hefeweizen, Year-round,5,No notes at this time.,f
+120516,Ankerla Kolonial Red Ale,7331,,DE,American Amber / Red Ale, Rotating,7,No notes at this time.,f
+357091,Argus Mojito,42043,,PL,Fruit and Field Beer, Year-round,2,No notes at this time.,f
+114256,Pale Project: Winter,16289,OR,US,American Pale Ale (APA), Rotating,5.8,No notes at this time.,f
+70722,Lake On The Mountain Summer Ale,18144,ON,CA,American Blonde Ale, Summer,4.6,No notes at this time.,f
+132383,Vriendshapsblend (Friendship Blend),2391,OR,US,American Wild Ale, Limited (brewed once),10,No notes at this time.,t
+189318,All Hail Kohatu,29200,CA,US,American IPA, Rotating,6.6,No notes at this time.,f
+371257,Mark's Mishop,24326,TX,US,American Pale Ale (APA), Limited (brewed once),4.6,No notes at this time.,f
+123265,King Leopold Belgian Stout (Healthy Spirits Barrel Aged),25032,CA,US,English Oatmeal Stout, Limited (brewed once),7,"The newest in this series of exclusive bottlings has just been released! Healthy Spirits and San Francisco’s Triple Voodoo Brewing announce KING LEOPOLD Barrel-Aged Belgian Stout. Black as a rickhouse floor at midnight, this stout features American and European dark malts with a portion of rolled oats to supply the roasty, nutty, and full-bodied granular structure without heaviness on the palate. Belgian yeast ate all the sugars supplied by these grains, leaving behind a dry, clean finish. Oak barrel aging provided extra fermentation and a fleeting hint of woody spice. Limited to a mere ten cases produced, this represents one of the smallest runs of our exclusive ale series offered to our beer-loving patrons.",t
+371509,Idaho 7 Shatter,30870,PA,US,American IPA, Limited (brewed once),6,No notes at this time.,f
+367375,Carton / Barrier - Smash The Golds,26817,NJ,US,American Lager, Rotating,7.3,"Carton and Barrier brewed this bright, clean liquid gold to take this brutal summer across the finish line and kick off the glorious start of locals' summer. One golden malt, one golden hop, and the lager yeast of the Golden State fermented fast and warm to give pineapple aromatics to the star fruit, papaya, peach and citrus of heaps of 007: The Golden Hop throughout the brew. ",f
+19171,Oregon Trail Wit,1074,OR,US,Belgian Witbier, Year-round,4.2,No notes at this time.,f
+182744,Spangalang Pilsner,40054,CO,US,German Pilsner, Year-round,6.2,No notes at this time.,f
+219980,Irish Red,44644,ON,CA,Irish Red Ale, Limited (brewed once),5.5,No notes at this time.,t
+235550,Sorachi Disaster,44309,,IT,American IPA, Rotating,5,No notes at this time.,f
+36984,Aldobrandesca,15938,,IT,Belgian Witbier, Year-round,5.5,No notes at this time.,f
+363005,"Jumpman, Jumpman, Jumpman",39889,IL,US,American Imperial IPA, Limited (brewed once),9.5,No notes at this time.,f
+52604,100 Barrel Series #04 - Barleywine (Bourbon Barrel-Aged),98,MA,US,American Barleywine, Limited (brewed once),10.3,No notes at this time.,t
+305838,Noble Sibling,49340,OH,US,American Imperial IPA, Limited (brewed once),9.5,No notes at this time.,t
+77843,Hersbrucker Lager,16963,NM,US,German Pilsner, Rotating,4.6,No notes at this time.,f
+231043,Governorfish,32875,FL,US,American Imperial IPA, Rotating,8.7,No notes at this time.,f
+222966,Koff APA,264,,FI,American Pale Ale (APA), Year-round,4.5,No notes at this time.,f
+81799,Aldersbacher Königinnen Weisse Hell,5752,,DE,German Hefeweizen, Year-round,5.5,No notes at this time.,f
+191282,Jeremiah Red,22398,WA,US,Irish Red Ale, Year-round,7.3,No notes at this time.,f
+275930,Give Corn A Chance,46718,PA,US,American IPA, Rotating,6.9,No notes at this time.,f
+45162,Cornish Steam Lager,14100,GB2,GB,California Common / Steam Beer, Year-round,4.3,No notes at this time.,f
+114438,Holsten Radler,628,,DE,Fruit and Field Beer, Year-round,2.2,No notes at this time.,f
+324297,Smoked Stout,36080,NC,US,American Stout, Limited (brewed once),4.6,No notes at this time.,f
+347584,"Tequila, Cilantro, Lime, Chili Thang",2310,NV,US,American Blonde Ale, Limited (brewed once),5.5,No notes at this time.,f
+11135,Bellheimer Edel Export,3341,,DE,European Export / Dortmunder, Year-round,4.9,No notes at this time.,f
+127795,Granola Brown Ale,34658,CT,US,American Brown Ale, Year-round,5.5,"Before a big pig roast we love to go on a long hike to get the blood flowin’ and our stomachs ready for a serious feast. to keep us going we pack a few bags of crunchy granola. then it came to us! granola brown allows us to have the best of both worlds- a refreshing brew with all the wonders of our delicious granola! take this beer on your next hike or hike one up to your lips for a satisfying energy packed libation. don’t want to pair your beer with a hike? try our granola brown with a nutty alpine cheese like springbrook tarentaise, comte or gruyere.",f
+150504,R2 Koelschip,27917,PA,US,American Wild Ale, Year-round,4.2,No notes at this time.,f
+72101,Single Brew Stout,23480,,AU,English Stout, Limited (brewed once),5.1,No notes at this time.,t
+262501,SHB: Simcoe,44082,MO,US,American IPA, Rotating,7,No notes at this time.,f
+128757,VaJaHa,35617,MI,US,American Blonde Ale, Rotating,5.5,No notes at this time.,f
+252161,Cascade,24075,CO,US,Belgian Saison, Rotating,6.6,Cascade dry hopped Belgian style sour ale,f
+88155,Rare Form,30379,CA,US,Belgian Quadrupel (Quad), Rotating,12.7,No notes at this time.,f
+293809,To The Yard (peach),44082,MO,US,American IPA, Rotating,6.8,No notes at this time.,f
+191496,6 Foot 5 IPA,35402,,NZ,American IPA, Year-round,6.5,No notes at this time.,f
+2411,Mahr's Weisse,428,,DE,German Hefeweizen, Year-round,4.9,No notes at this time.,f
+112681,Dark Side Of The Moo,33429,MI,US,English Sweet / Milk Stout, Rotating,5,No notes at this time.,f
+121563,Permanent Midnight (imperial Porter),18089,MD,US,American Porter, Limited (brewed once),6.5,No notes at this time.,t
+207429,Imperial Lakta Coffee,34495,IL,US,English Sweet / Milk Stout, Rotating,10,No notes at this time.,t
+44077,Niksicko Tamno,12226,,RS,German Schwarzbier, Year-round,6.2,No notes at this time.,f
+312920,Acrobat DIPA,47521,MA,US,American Imperial IPA, Rotating,8.1,No notes at this time.,f
+20145,Second Hand Smoke,987,CO,US,German Rauchbier, Rotating,3.8,No notes at this time.,f
+144417,Oud Bruin (Cherry),22157,OH,US,Flanders Oud Bruin, Rotating,4.8,No notes at this time.,f
+130616,Holy Cowbell,30471,GB2,GB,American Black Ale, Rotating,5.6,No notes at this time.,f
+207931,Other Half/Burial - Diamond Mausoleum,33510,NY,US,American Black Ale, Limited (brewed once),7.5,Cascadian Dark Ale,t
+280248,Amore Achromatic,38773,CO,US,American Imperial Stout, Limited (brewed once),10.4,No notes at this time.,t
+30313,Summer Ale,3062,NC,US,German Kristalweizen, Summer,4.5,No notes at this time.,f
+145514,Crabby Bill's Ale,978,CA,US,American Amber / Red Ale, Rotating,5.2,No notes at this time.,t
+2302,Railbender Ale,754,PA,US,Scottish Ale, Year-round,6.8,"Erie Brewing Company flagship beer features a deep malt flavor, caramel sweetness lingering in a soft hop flavor. Dark Amber.",f
+317854,Karma,43892,,RO,American Imperial IPA, Rotating,8.5,No notes at this time.,f
+185944,Royal Roots English-Style Porter,30230,IA,US,English Porter, Limited (brewed once),5.7,No notes at this time.,t
+209357,Seth Lager,10546,,FI,European Pale Lager, Rotating,4.7,No notes at this time.,f
+232086,Research Series Lush #2,39297,VT,US,American Imperial IPA, Limited (brewed once),5.8,No notes at this time.,t
+101414,Anfernee,24134,SC,US,British Barleywine, Limited (brewed once),8,No notes at this time.,t
+88660,NevaRRaven,23246,,NZ,American Black Ale, Limited (brewed once),10,No notes at this time.,t
+309320,Limb From Limb,18858,BC,CA,Rye Beer, Limited (brewed once),7,In a time of spooks and ghouls and jack-o-lanterns arrives a new jack in town…,f
+105912,Vienna Lager,31339,NM,US,Vienna Lager, Year-round,4.5,No notes at this time.,f
+95970,De Rokerij,27020,GB2,GB,Smoke Beer, Limited (brewed once),4.9,No notes at this time.,t
+25408,Clearwater Light,1932,VA,US,American Light Lager, Year-round,3.6,No notes at this time.,t
+105418,Pawpaw Lambic,1170,IN,US,Belgian Fruit Lambic, Limited (brewed once),4.5,No notes at this time.,t
+312161,Kaleidoscope Golden Strong Ale,4950,CA,US,Belgian Strong Pale Ale, Rotating,7.7,No notes at this time.,f
+328995,Kava,46725,TX,US,European Dark Lager, Limited (brewed once),3.4,No notes at this time.,f
+331475,Tuesday (2018),35412,FL,US,American Imperial Stout, Limited (brewed once),4.6,Maple barrel-aged cinnamon hazelnut imperial stout,f
+73447,Schlafly Rye Bock,583,MO,US,German Bock, Limited (brewed once),7,Brewed exclusively for Whole Foods,t
+327774,Rocket Shed,51308,,AU,German Märzen / Oktoberfest, Rotating,5.8,No notes at this time.,f
+32550,Pooh Bah Porter,1784,NC,US,English Porter, Year-round,6.4,No notes at this time.,t
+265425,Belgian,48165,NH,US,Belgian Pale Ale, Year-round,6.5,No notes at this time.,f
+101276,Liberty Station IPA,147,CA,US,American IPA, Rotating,7.5,No notes at this time.,f
+43006,Sage On Saison,4410,CA,US,Belgian Saison, Rotating,5,No notes at this time.,t
+23234,Roggen,971,LA,US,German Roggenbier, Limited (brewed once),2.9,No notes at this time.,t
+101274,Brett Pale Ale,32922,CA,US,American Pale Ale (APA), Year-round,5,No notes at this time.,f
+370576,Curly Tail Ale,46324,NY,US,Belgian Strong Dark Ale, Rotating,8,No notes at this time.,f
+165604,Marzen,36817,IL,US,German Märzen / Oktoberfest, Rotating,5.2,No notes at this time.,f
+36564,Marzen Original,6074,,DE,German Märzen / Oktoberfest, Year-round,5.3,No notes at this time.,t
+168777,Time Out Dry Irish Stout,36587,FL,US,Irish Dry Stout, Rotating,4.7,No notes at this time.,f
+356782,Visions of Delight,41542,PA,US,English Extra Special / Strong Bitter (ESB), Rotating,4.9,No notes at this time.,f
+202703,Helles,29911,CA,US,German Helles, Rotating,2.8,No notes at this time.,f
+223705,NY Local Weiss German Style Wheat Ale,99,NY,US,American Pale Wheat Ale, Summer,5.2,No notes at this time.,f
+336421,Vanilla Bean Milk Stout,52345,CA,US,English Sweet / Milk Stout, Year-round,5.5,No notes at this time.,f
+201440,Homefield 6,32065,MA,US,American Pale Ale (APA), Limited (brewed once),4,No notes at this time.,t
+233668,Gotlandsdrika,9897,MI,US,Finnish Sahti, Limited (brewed once),6.5,No notes at this time.,t
+252979,L'Euphoria,42975,CA,US,American IPA, Rotating,7,No notes at this time.,f
+87709,Imperial Super Guy,30386,ON,CA,American Imperial IPA, Year-round,9.1,"ISG is the granddaddy of our Rye Guy IPA. More grain! More hops! The result is an incredibly flavourful, yet balanced Imperial IPA. There is a big malt flavour up front which presents in the form of rich caramel and serves to balance the high bitterness of a beer weighing in at 90 IBUs. The result is a nice, lingering, spicy taste on the tongue. And at 9.1% ABV, this is definitely going to make you super!",f
+89031,Head High - Mango,26676,NJ,US,American IPA, Limited (brewed once),6.5,No notes at this time.,t
+309261,Hard Rollin',31221,GB2,GB,American IPA, Rotating,7,No notes at this time.,f
+86566,Muskoka Twice As Mad Tom IPA,661,ON,CA,American Imperial IPA, Year-round,8.4,"While the legend of Mad Tom is laden with mystery and intrigue, one thing remains clear - Mad Tom did things his own way. Twice as Mad Tom is an aggressively twice dry-hopped Imperial India Pale Ale, that delivers a definitive hop aroma and unabashedly big bold flavor. We brew this beer with the road less traveled in mind, and in the spirit of old Mad Tom, we make no bones about it.",f
+199646,Smooth Cran Job,34735,SD,US,American Blonde Ale, Rotating,5.7,Cranberry Blonde Ale,f
+87298,High Carb Ale,28859,,NZ,American Strong Ale, Limited (brewed once),7.3,No notes at this time.,t
+133066,Burnout Brown,36193,IA,US,American Brown Ale, Year-round,5,"Nut up and dump the clutch! Our American brown ale will get you ready to roll! It's dry, smooth and easy to drink. Clean on the pallet yet filled with caramel flavors that are balanced with hops. Crystal 60 & chocolate malts balanced with caramelized sugars give it a deep malt flavor. It's approachable for light beer drinkers and not too bitter.",f
+196638,Derivative: Citra,33482,RI,US,American Pale Ale (APA), Rotating,6,No notes at this time.,f
+104431,Ok2berfest,30437,CT,US,German Märzen / Oktoberfest, Fall,5.8,Modeled after the classic “Marzenbier” (pronounced “maer-tsen beer”) Octoberfest style that was traditionally the beer served at the Munich Oktoberfest. This is the classic amber lager.,f
+341040,Spring Pale Ale,23052,IA,US,American Pale Ale (APA), Limited (brewed once),5.6,Throwback original California-style pale ale. Brewed with Magnum and loads of Cascade hops for a piney and grapefruity finish. Perfect accompaniment for grilled steaks and roasted vegetables.,f
+199936,Crosby Pale,2563,,AU,American Pale Ale (APA), Limited (brewed once),5,No notes at this time.,t
+134857,Chosin Reservoir Pilsener,32478,PA,US,German Pilsner, Rotating,5.3,No notes at this time.,f
+270497,Clarity FLX IPA,24102,NY,US,American IPA, Rotating,6.2,No notes at this time.,f
+315991,Zed's In NJ - Pale 42,49460,NJ,US,American Pale Ale (APA), Rotating,5,No notes at this time.,f
+247982,Seven Eight Nine,30623,CO,US,Baltic Porter, Rotating,8.1,No notes at this time.,f
+269559,Crew X 8.0,29780,,DE,American Black Ale, Rotating,6.8,No notes at this time.,f
+83330,Vecchia Bastarda,15938,,IT,Fruit and Field Beer, Year-round,8.6,No notes at this time.,f
+80084,Summer Saison,22276,GB2,GB,Belgian Saison, Summer,8,No notes at this time.,f
+259063,Oops! I Mangoed My Pants!,39356,NY,US,American IPA, Rotating,7.5,Oops! I Mangoed My Pants! takes a twist on one of our favorite recipes by adding a boatload of mangoes (over 450 lbs of mangoes) and an extra dry-hop addition on New Zealand hops.,f
+111631,Blunderbuss 2007,14,MA,US,American Barleywine, Limited (brewed once),11.5,No notes at this time.,t
+90572,"Blunderbuss Barleywine 2012, Bourbon Barrel / Dry-hop Blend",14,MA,US,American Barleywine, Limited (brewed once),13,No notes at this time.,t
+30882,Dually,5605,CO,US,American Imperial IPA, Rotating,2.5,No notes at this time.,t
+198063,Crystal Ruby,37682,GB7,GB,American Amber / Red Ale, Rotating,4.2,No notes at this time.,f
+285841,First Batch Pale Ale,32600,FL,US,American Pale Ale (APA), Limited (brewed once),5.7,No notes at this time.,t
+114207,Peach On The Beach (Sex On The Peach),31974,FL,US,Belgian Saison, Limited (brewed once),6,No notes at this time.,t
+261843,Temporal Oatmeal IPA,27179,ID,US,American IPA, Rotating,5,No notes at this time.,f
+264205,Bohemian Rye Pilsner,47264,MN,US,Rye Beer, Year-round,4.7,No notes at this time.,f
+3974,Ambrée,771,QC,CA,American Amber / Red Ale, Year-round,5.5,No notes at this time.,t
+296704,Makimwe IPA,43590,WA,US,American IPA, Rotating,6.1,No notes at this time.,f
+217584,Tony Goes Dancing,29556,CT,US,American Imperial IPA, Limited (brewed once),8,"American Double IPA. Hazy and soft with notes of grapefruit and melon, this beer is brewed with six types of American and New Zealand hops.",t
+179138,Virginia's Own (Ghost 225),31535,VA,US,American Pale Ale (APA), Rotating,8.2,No notes at this time.,f
+332682,Black,44103,,NL,English Sweet / Milk Stout, Limited (brewed once),10.5,No notes at this time.,f
+147238,BA X Imperial Stout Black Spirit Bourbon Barrel Ed,13307,5.6,DK,American Imperial Stout, Limited (brewed once),15,No notes at this time.,t
+322552,Buse à Queue Rousse,44822,QC,CA,American Amber / Red Ale, Rotating,5.8,No notes at this time.,f
+48586,Irish Stout,5329,OR,US,Irish Dry Stout, Spring,4.1,No notes at this time.,f
+131668,Anise Midnight,21631,MO,US,American Black Ale, Rotating,4.8,Formerly Anise BIPA,t
+77012,Woolly Bugger,11977,BC,CA,British Barleywine, Winter,11,No notes at this time.,f
+170389,Mankini,24300,NY,US,American IPA, Rotating,2.7,IPA brewed with blueberries,f
+337327,Pineapple Great Return,48380,VA,US,American Pale Ale (APA), Rotating,7.2,No notes at this time.,f
+14544,Czar's Tar Imperial Stout,1972,CA,US,Russian Imperial Stout, Rotating,9,No notes at this time.,t
+181201,The Snuffler,41165,PA,US,American IPA, Year-round,6,No notes at this time.,f
+327879,Brewer's ExperimentALE #67: 1917 Crystal AK,31901,MN,US,English Pale Mild Ale, Limited (brewed once),4.3,No notes at this time.,f
+50511,Happy Way IPA,4410,CA,US,American IPA, Limited (brewed once),5.75,No notes at this time.,t
+246302,Michelada,31805,FL,US,American Blonde Ale, Limited (brewed once),5,No notes at this time.,t
+231892,Passion,39101,OH,US,Belgian IPA, Rotating,6.2,No notes at this time.,f
+277611,Full Shade,4063,KS,US,American IPA, Rotating,6,Brewed with guava and Waimea hops,f
+57549,Beverwyck Black,1619,NY,US,American Stout, Limited (brewed once),5.4,No notes at this time.,t
+310552,Daymer,31831,GB2,GB,American Pale Ale (APA), Limited (brewed once),3.8,No notes at this time.,f
+81953,Rum Raisin Stout,28559,CO,US,American Stout, Year-round,8.1,No notes at this time.,t
+103425,Succubus,32514,CO,US,Belgian Strong Pale Ale, Rotating,8.52,No notes at this time.,f
+327195,Bud Light Lime Grape-Fruit-Rita,29,MO,US,American Malt Liquor, Rotating,8,No notes at this time.,f
+209347,Schmidts & Grins,42750,ID,US,German Doppelbock, Rotating,7.8,No notes at this time.,f
+80837,Black Pearl IPA,1889,NY,US,American Black Ale, Limited (brewed once),8,No notes at this time.,t
+279848,YCH Collab Session IPA,35764,CO,US,American IPA, Limited (brewed once),5,No notes at this time.,t
+334001,Kwas Jota,29347,,PL,American Wild Ale, Rotating,5.1,No notes at this time.,f
+342985,Lubuskie Celtyckie,5504,,PL,European Dark Lager, Rotating,4.5,No notes at this time.,f
+286571,SenorWITa,33939,OH,US,Belgian Witbier, Limited (brewed once),4,No notes at this time.,t
+347544,Bridges To Burn,42357,KY,US,American IPA, Limited (brewed once),4.7,"Hazy session IPA hopped with Mosaic, Citra, and Lemon drop.",f
+124735,Sawdust City / Bar Hop The Berlin Decision,26774,ON,CA,Berliner Weisse, Limited (brewed once),6.5,No notes at this time.,t
+191292,Milchkaffee,287,MI,US,English Sweet / Milk Stout, Limited (brewed once),5.5,No notes at this time.,t
+155247,Limmat Bräu,14679,,CH,European Pale Lager, Year-round,4.8,No notes at this time.,f
+273077,Devil's Teeth - Bourbon Barrel-Aged With Almonds And Cocoa Nibs,31987,CA,US,English Old Ale, Limited (brewed once),11,No notes at this time.,t
+1889,Snow Cap,403,WA,US,Winter Warmer, Winter,7,"Deep mahogany in color, our full-bodied winter warmer is brewed in the spirit of British winter ales. Crafted with a flurry of roasted chocolate and caramel malts, and generously hopped, it delivers a smooth finish that makes this beer the perfect cold weather companion.",f
+304970,Thymus,45078,,ES,Belgian Witbier, Year-round,4.2,No notes at this time.,f
+309388,Travel By Map,36754,CA,US,American Imperial IPA, Limited (brewed once),9.4,No notes at this time.,f
+9943,Hopshot IPA,1104,AZ,US,American IPA, Year-round,4.6,No notes at this time.,f
+339353,Big Jim,51052,FL,US,California Common / Steam Beer, Rotating,5,No notes at this time.,f
+24329,Dominion Kristall Weizen,402,DE,US,German Kristalweizen, Limited (brewed once),3.8,No notes at this time.,t
+112846,Box Car Brown (Wine Barrel Aged),15636,OR,US,American Brown Ale, Limited (brewed once),6,No notes at this time.,t
+217776,Brown Ale Con Agave,44527,,MX,English Brown Ale, Year-round,5.9,No notes at this time.,f
+94893,Pro-Am Series No. 6 - Mutineer,15435,ON,CA,American Imperial Pilsner, Limited (brewed once),8,No notes at this time.,t
+80780,Sommerweizen,25053,WA,US,German Kristalweizen, Rotating,5,"Sound's Sommerweizen is a classic example of the Kristallweizen style that was born in the alpine regions of Germany and Austria. Crystal clear and clean with a delicate aroma of wheat and spice, Sommerweizen has a long lasting creamy head, and is refreshing, yet satisfying and full of flavor.",t
+288679,Double Dry Hopped Ain't Nothing Nice,33510,NY,US,American IPA, Rotating,6.2,"DDH Ain’t Nothing Nice IPA is a our double dry hopped Galaxy, Mosaic and Simcoe IPA.",f
+326069,Road Triple,30482,QC,CA,Belgian Tripel, Rotating,9,No notes at this time.,f
+19143,Cream Ale,885,MD,US,American Cream Ale, Summer,4.8,No notes at this time.,t
+352889,The Steel Wheels,16352,VA,US,English Extra Special / Strong Bitter (ESB), Rotating,5.5,No notes at this time.,f
+20776,Bila Nich,9056,,UA,Herb and Spice Beer, Year-round,5,No notes at this time.,f
+264741,Winter Blonde,45083,VA,US,Belgian Blonde Ale, Rotating,7,No notes at this time.,f
+173902,Raiders Ghost IPA,26933,VA,US,American Imperial IPA, Limited (brewed once),9.2,Formerly known as Mosby's Ghost,t
+140792,HaseWeizen,35337,WI,US,German Hefeweizen, Rotating,6.1,No notes at this time.,t
+204360,Tierra De Frontera,43431,,ES,American Pale Ale (APA), Year-round,4.5,No notes at this time.,f
+48212,San Gabriel Ambra Rossa Di Treviso,19131,,IT,Fruit and Field Beer, Year-round,5.5,No notes at this time.,f
+249711,The 'Murican Dream,31066,TX,US,American IPA, Rotating,6.4,No notes at this time.,f
+172408,Bourbon Barrel Raspberry Stout,26753,VA,US,American Imperial Stout, Spring,12.4,No notes at this time.,f
+12476,Hefeweizen With Lemon,5406,CA,US,German Hefeweizen, Year-round,3.7,No notes at this time.,t
+82797,Radical Road,11082,GB6,GB,American Pale Ale (APA), Year-round,6.4,No notes at this time.,f
+188373,Batch 100,32601,MI,US,American Wheatwine Ale, Limited (brewed once),9.5,No notes at this time.,t
+157656,Belmonter Weisse (Apricot),37448,CA,US,Berliner Weisse, Limited (brewed once),4.2,No notes at this time.,t
+349103,G'Day Gummy,38311,IL,US,American IPA, Rotating,6.2,No notes at this time.,f
+339801,Drink It Down Pecan Brown,42207,FL,US,American Brown Ale, Limited (brewed once),5.8,No notes at this time.,f
+374004,TIME WARP CITRA IPA,51538,PA,US,American IPA, Rotating,6,No notes at this time.,f
+155232,Cool Beans Imperial Coffee Porter,29402,MN,US,American Imperial Porter, Rotating,9.1,No notes at this time.,f
+200239,Royal Dutch Post Horn 16%,37859,,NL,American Malt Liquor, Year-round,16,No notes at this time.,f
+294007,Vink Heerlijk,46855,,NL,Rye Beer, Year-round,6.2,No notes at this time.,f
+272793,Kumquat Margarita Gose,42323,FL,US,Leipzig Gose, Limited (brewed once),4,No notes at this time.,t
+65966,Irlandzkie Mocne,5512,,PL,Irish Dry Stout, Year-round,6,No notes at this time.,f
+269258,Mörsugur,618,ON,CA,Scottish Gruit / Ancient Herbed Ale, Limited (brewed once),7.3,No notes at this time.,t
+280973,Socrates Coffee IPA,31228,TX,US,American Black Ale, Rotating,6.5,No notes at this time.,f
+221119,Barrell Aged Cobaltic Porter,33824,CA,US,American Porter, Limited (brewed once),9,No notes at this time.,t
+208600,Sauron's Nightlight,40326,MA,US,American Porter, Rotating,8,No notes at this time.,f
+91916,St. Dekkera Reserve: Sour Apricot Ale,36757,IL,US,American Wild Ale, Limited (brewed once),3.7,No notes at this time.,t
+144934,Pumpkin Ale,16086,SC,US,Fruit and Field Beer, Fall,3.7,No notes at this time.,f
+229703,Kuhnhenn Dawn Treader,2097,MI,US,American Blonde Ale, Limited (brewed once),5,No notes at this time.,t
+213249,Mlado Pivo,12477,,MK,German Kellerbier / Zwickelbier, Year-round,3.7,No notes at this time.,f
+137993,Super Stout Coffee Stout,651,NY,US,English Oatmeal Stout, Rotating,4.9,Oatmeal Stout conditioned with Sumatra Coffee.,f
+60129,Blonde Ale,13446,WY,US,American Blonde Ale, Year-round,5,"Wind River Blonde Ale is a pale golden beer that is lively, light and refreshing. It is the first bere to be packaged in a can in the State of Wyoming.",f
+333002,Mad Seditious,32931,CA,US,American Wild Ale, Rotating,7.9,No notes at this time.,f
+256811,Bergen County Bull Stout 2016,29850,NJ,US,American Imperial Stout, Limited (brewed once),10.5,Bergen County Bull Stout 2016 aged in Heaven Hill Bourbon barrels. ,t
+164245,Inisfada,32406,NY,US,Irish Red Ale, Spring,6.5,No notes at this time.,f
+325658,Good Old Geoff,35210,CA,US,English Pale Mild Ale, Rotating,3.9,No notes at this time.,f
+218295,"Pomegranate, Ginger & Tangerine Blonde (Ghost 296)",31535,VA,US,American Blonde Ale, Limited (brewed once),7.4,No notes at this time.,t
+328184,6th Anniversary Chardonnay Barrel Aged Quad,28569,IL,US,Belgian Quadrupel (Quad), Limited (brewed once),9.8,No notes at this time.,f
+93344,ALS Hoppy Session Ale,98,MA,US,American Pale Ale (APA), Limited (brewed once),3.7,No notes at this time.,t
+210279,Old #19,25712,MO,US,American Dark Wheat Ale, Winter,5.3,No notes at this time.,f
+70866,Whiskey Barrel Aged Saison,130,CO,US,Belgian Saison, Limited (brewed once),6,No notes at this time.,t
+346714,BrutAle Death Metal,37448,CA,US,American Brut IPA, Rotating,8.7,No notes at this time.,f
+270277,Muga Joe Double Coffee Stout,40982,CT,US,American Stout, Rotating,8,No notes at this time.,f
+342506,Gąska Beerbinka,52648,,PL,Leipzig Gose, Rotating,5,No notes at this time.,f
+84948,Tripel,848,CO,US,Belgian Tripel, Year-round,8.4,"A golden, richly aromatic beer that’s high in nuance, low on fuss. Clean, dry, and biscuity with a dense, snow white head. Gezondheid!",f
+83923,Hop Project #66,9020,TN,US,American IPA, Limited (brewed once),3.7,No notes at this time.,t
+235500,I Am The Knight,29757,FL,US,European Dark Lager, Rotating,5.3,No notes at this time.,f
+76000,Blackberry Infused Jamaica Red,266,CA,US,Fruit and Field Beer, Limited (brewed once),6.5,No notes at this time.,t
+354892,Fire Knife,51641,NC,US,American Imperial IPA, Rotating,9.7,No notes at this time.,f
+278327,Tanger,32110,,BR,Belgian Witbier, Year-round,4,No notes at this time.,f
+332402,Fonta Flora / Half Acre - Wolf Spit,33145,NC,US,Baltic Porter, Rotating,8.5,Baltic Porter brewed with hickory bark.,f
+209790,Simple Joule,43735,TX,US,American Imperial Stout, Rotating,10,No notes at this time.,f
+32865,Wheat Beer,14660,TX,US,American Pale Wheat Ale, Year-round,3.8,No notes at this time.,t
+318314,Lupy,42561,FL,US,American Imperial IPA, Rotating,9,No notes at this time.,f
+282454,Laced With Passion,42756,IL,US,Leipzig Gose, Rotating,3.9,No notes at this time.,f
+225552,Wee Heavy,34159,FL,US,Scotch Ale / Wee Heavy, Rotating,9.4,No notes at this time.,f
+228642,Signature Single Hop IPL,31492,CT,US,American Lager, Rotating,6.8,No notes at this time.,f
+280191,Cathedral Grove California Common,44672,BC,CA,American Blonde Ale, Rotating,5,No notes at this time.,f
+203455,5th Ocean Belgian Blonde,23305,,RU,Belgian Blonde Ale, Year-round,6,No notes at this time.,f
+43353,Coney Island Human Blockhead,27114,NY,US,German Doppelbock, Rotating,10,"""Imperial American Bock""",t
+357770,History and Tradition,44768,MA,US,Smoke Beer, Rotating,5.6,No notes at this time.,f
+337580,Hirschau 1812 Original,6160,,DE,German Helles, Year-round,4.5,No notes at this time.,f
+219474,Falling Squirrel Project #6,43181,NY,US,American IPA, Rotating,7.3,No notes at this time.,f
+262826,Dopamine Double IPA,2104,,US,American Imperial IPA, Rotating,7.74,No notes at this time.,f
+297913,Juicy Jay - Barrel-Aged,43546,NC,US,American IPA, Limited (brewed once),6.3,No notes at this time.,t
+16767,Bali Hai Premium,9275,,ID,American Adjunct Lager, Year-round,5,No notes at this time.,f
+87860,Fantasia Reserve,19866,OR,US,American Wild Ale, Limited (brewed once),5.75,No notes at this time.,t
+18675,Rengakan Beer,9209,,JP,German Altbier, Year-round,4,No notes at this time.,t
+329773,Civil Works,33926,VA,US,American Lager, Rotating,4.3,No notes at this time.,f
+225769,Sigtuna Imperial Porter,14439,,SE,Baltic Porter, Limited (brewed once),8,No notes at this time.,t
+168563,Pale Duke,35583,GB6,GB,English India Pale Ale (IPA), Limited (brewed once),4,No notes at this time.,t
+175570,Amarillo Single Hop Pale Ale,20658,WA,US,American Pale Ale (APA), Limited (brewed once),6,No notes at this time.,t
+156548,Pedavena Speciale 110,9076,,IT,Bohemian Pilsener, Year-round,5.9,No notes at this time.,f
+48194,Belhaven Scottish Stout,148,GB6,GB,English Stout, Year-round,7,No notes at this time.,f
+359465,To Helles and Bock,41240,OH,US,German Maibock, Limited (brewed once),6.7,No notes at this time.,f
+65672,Carbone,23196,,IT,English Stout, Year-round,5,No notes at this time.,f
+252126,Fernetical,24803,MA,US,Herb and Spice Beer, Limited (brewed once),11,No notes at this time.,t
+211646,Clear Sky Creamsicle,33530,OH,US,American Cream Ale, Rotating,5,Clear Sky Cream Ale infused with fresh orange and vanilla bean.,f
+329608,Long-Range Pils,30128,TX,US,German Pilsner, Year-round,4.8,No notes at this time.,f
+243081,Big Wake,35857,NH,US,American IPA, Rotating,5.7,No notes at this time.,f
+93918,Dat Moi,28657,CA,US,American Lager, Limited (brewed once),4.8,No notes at this time.,t
+79047,Kismet Saison,16859,NY,US,Belgian Saison, Year-round,5.25,No notes at this time.,f
+338494,Rhye Pale Ale,39898,OH,US,Rye Beer, Year-round,5.5,No notes at this time.,f
+242074,Annabelle,24428,MO,US,Belgian Saison, Rotating,6.5,No notes at this time.,f
+74763,Pardon You,1337,CA,US,American Pale Ale (APA), Rotating,5.7,No notes at this time.,f
+250766,Gridlock,46926,VA,US,American Blonde Ale, Year-round,5.6,No notes at this time.,f
+190981,Göller Weizenbock,1488,,DE,German Weizenbock, Winter,7,No notes at this time.,f
+198302,Gweilo IPA,43012,,HK,American IPA, Rotating,4.8,"Gweilo IPA is brewed with European malt and a secret blend of South Pacific and American hops. It is intensely dry hopped throughout fermentation to create a fresh, vibrant and unique session ale, delivering a smooth hit of tropical hops with a crisp, satisfying finish.",f
+103991,Tea Bagged Overrated,13014,MN,US,American IPA, Limited (brewed once),6.5,No notes at this time.,t
+237928,Toque And Mitts,38902,NB,CA,British Barleywine, Rotating,2,No notes at this time.,f
+127728,Yvan The Great: Belgian-Style Blonde (Beer Camp Across America),140,CA,US,Belgian Blonde Ale, Limited (brewed once),6.3,"As longtime friends, Russian River brewmaster Vinnie Cilurzo and our own Brian Grossman are no strangers to brewing experiments. While looking for inspiration for this collaboration, Vinnie and Brian decided to honor the creations of legendary Belgian brewer Yvan De Baets with their own hop-forward American-Belgian mash-up.",t
+323109,Brewhouse Rarities: Mimosa Beer,68,MD,US,Fruit and Field Beer, Rotating,5.2,No notes at this time.,f
+238399,Helles In Wonderland,43352,CO,US,German Helles, Rotating,5.2,No notes at this time.,f
+148026,EXperimental Imperial IPA,37094,OK,US,American Imperial IPA, Limited (brewed once),9.2,No notes at this time.,t
+61131,Red Rock Elephino,1412,UT,US,American Imperial IPA, Year-round,8,"Red Rock's Elephino (el-uh-fine-oh) Double India Pale Ale is an American style IPA. Its intense citrus, floral and perfume-like, resinous and piney aroma come from the use of a copious amount of American hops. This beer is double dry-hopped on whole leaf Amarillo hops for a vivid, fresh aroma. The huge hop profile is backed up by a malty sweetness that lends a hand in this fine creation's balance.",f
+13883,Spiced Pumpkin Ale,12516,OH,US,Pumpkin Beer, Rotating,5,No notes at this time.,f
+38427,Lectio Divina,16205,FL,US,Belgian Saison, Year-round,8,Lectio Divina is a cross between an abbey double and a saison. Open fermentation with a saison strain and a dose of wild yeast at bottling add to the complexity.,f
+276710,Vader Saber,18823,TX,US,American Amber / Red Ale, Limited (brewed once),7.1,No notes at this time.,t
+61275,Pile O' Dirt Porter,15943,SD,US,American Porter, Year-round,6,"This robust porter is black in color, is medium-bodied and has a rich, roasted malt flavor ending with a pleasing hop flavor and mild hop bitterness.",f
+195649,Neutrino Pale Ale,33119,CT,US,American Pale Ale (APA), Rotating,5.3,No notes at this time.,f
+244962,Kotvan's Single,34748,IL,US,Belgian Pale Ale, Limited (brewed once),6.5,No notes at this time.,t
+193619,Lemon Battlecat,36710,FL,US,American Wild Ale, Rotating,5.5,No notes at this time.,f
+40310,Noël Des Géants,4261,,BE,Herb and Spice Beer, Winter,8.5,No notes at this time.,f
+59374,FoeHammer,22994,NC,US,British Barleywine, Rotating,10.5,No notes at this time.,t
+208481,"Leaves Of Grass: December 4, 2015",22511,VT,US,Belgian Saison, Limited (brewed once),2.7,"Leaves of Grass represents our brewery's collective pursuit to create, explore and challenge. For each batch, we employ uniquely different processes and ingredients, all of which further our understanding of the art and science of brewing. ",t
+201572,I'll Be Bock,35540,VA,US,German Bock, Rotating,6.5,No notes at this time.,f
+202045,Mokra,24075,CO,US,Belgian Saison, Limited (brewed once),7.2,"Brettanomyces is a wild yeast strain that can give beer interesting, delicious fruit flavors, but sometimes Brett can be a fickle fellow. The Brett we threw into this brew was defiant. However, sometimes when you let Brett sit for a while, it will come around. We decided to let it sit in Bourbon barrels. This experiment took a year and a half, but came together and developed into a delightful brew. ",t
+53187,Bodhi,341,OH,US,American Imperial IPA, Rotating,8.5,"An awakening of the senses by virtue of American hops. Pale golden in color, this double IPA showcases a unique blend of hops, highlighting the true nature of Citra.",f
+177514,Picker's Pale Ale,40650,MD,US,American Pale Ale (APA), Rotating,5,No notes at this time.,f
+368338,Attraction No. 13: Lifeguard off Duty,36798,NJ,US,Belgian Saison, Limited (brewed once),7,No notes at this time.,f
+282193,Galaxy Quest,16077,OR,US,American IPA, Rotating,8,No notes at this time.,f
+114666,Strawberry Wheat,299,MA,US,American Pale Wheat Ale, Limited (brewed once),6.2,No notes at this time.,t
+272703,10th Anniversary Barleywine Aged In Pinot Noir Barrels,16077,OR,US,British Barleywine, Limited (brewed once),12.5,No notes at this time.,t
+66737,Alt-itude,22610,CA,US,German Altbier, Rotating,5.1,No notes at this time.,f
+99549,Hop Scotch,27847,NC,US,Scotch Ale / Wee Heavy, Rotating,8.5,No notes at this time.,f
+49924,Bones Brown Ale,487,FL,US,American Brown Ale, Rotating,5.5,No notes at this time.,t
+12864,The Swan On The Portside,6908,GB2,GB,English Bitter, Year-round,4.2,No notes at this time.,t
+168622,Scratch Beer 182 - 2015 (Scottish-Style Ale),694,PA,US,Scottish Ale, Limited (brewed once),6.8,"This hearty brew takes its inspiration from strong, malty ales brewed across the pond in Scotland. In the early 19th century, Scotch whiskey drinkers were well aware of the high quality of malt produced in Scotland, and the burgeoning whiskey market presented an abundance of barley. In turn, brewers decided to craft ales with very high malt bills, thus yielding the strong, malty, and sweet flavors that have become hallmarks of the Scottish Ale style. By the mid-19th century, Edinburgh was acknowledged as one of the foremost brewing cities in the world, a fact that any proud Scotsman would be honored to flaunt. The flavor of this rich, full-bodied ale stems from the malt profile, which exhibits complex notes of roasted and caramelized barley, dried dark fruit, chocolate, toasted nuts, and a faint hint of smoke.",t
+133214,Cream Dream,34029,CA,US,American Cream Ale, Limited (brewed once),5,No notes at this time.,t
+180916,ESB With Wild Goose Coffee,16843,CA,US,English Extra Special / Strong Bitter (ESB), Limited (brewed once),2.7,No notes at this time.,t
+283317,Grissettastone,46299,OK,US,Belgian Saison, Rotating,4,No notes at this time.,f
+108681,Golden Ale,11611,,AU,American Blonde Ale, Year-round,4.4,No notes at this time.,f
+209219,Revolution,39980,,PH,Belgian IPA, Year-round,7.5,No notes at this time.,f
+367708,Prickly Pear Cactus Pineapple Fruitsicle,22564,MI,US,American Wild Ale, Rotating,4.5,No notes at this time.,f
+22115,"Arboga 10,2",13882,,SE,European Strong Lager, Year-round,10.2,No notes at this time.,f
+59919,Meadow Road Wheat Beer,19916,ME,US,German Hefeweizen, Year-round,2.6,"Meadow Road Wheat is true to the Hefeweizen tradition of being unfiltered. It uses only malted wheat, lager malt, a top-fermenting Bavarian yeast, and is lightly topped with Tettnang. It has a beautiful medium-golden yeasty haze with a bright palate. The nose has notes of clove and honeysuckle coming through a background of banana.",f
+220851,Mother Baere,35766,CO,US,Belgian Saison, Limited (brewed once),2.5,No notes at this time.,t
+216063,Maguire Irish Red Ale,461,NE,US,Irish Red Ale, Rotating,6,"Nebraska Chinook hops and caramel malt have center stage in this aggressively hopped IRA. The English ale malt lends biscuit and caramel flavors while the Chinook bristles with piney, earthy, and citrusy notes.",f
+323860,Tequila Barrel Idiot Farm,30629,WI,US,American Imperial IPA, Limited (brewed once),2.6,No notes at this time.,f
+102175,Alt-Bamberg Weißbier,33014,,DE,German Hefeweizen, Year-round,5.2,No notes at this time.,f
+143965,Chasin' Freshies 2014 - Mosaic,63,OR,US,American IPA, Limited (brewed once),7.4,No notes at this time.,t
+363704,Bobber Lager (Dry Hopped),34285,MO,US,American Lager, Limited (brewed once),4.9,No notes at this time.,f
+12437,Raspberry Wheat,876,NJ,US,Fruit and Field Beer, Year-round,3.6,No notes at this time.,t
+157172,Stoopid Naked Flanders,29278,PA,US,Flanders Red Ale, Rotating,5,No notes at this time.,f
+110693,Four Play Batch #4,394,PA,US,American IPA, Limited (brewed once),6,No notes at this time.,t
+276944,Joe's Magical Pils,43007,TX,US,German Pilsner, Rotating,5.1,No notes at this time.,f
+259729,Imperial Eclipse Stout - Apple-Brandy,14936,CA,US,American Imperial Stout, Rotating,11,No notes at this time.,f
