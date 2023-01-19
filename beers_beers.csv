@@ -1,0 +1,992 @@
+beer_id,beer_name,place_id,info_id
+0,Olde Cogitator                                                                                      ,0,0
+1,Konrads Stout Russian Imperial Stout                                                                ,1,1
+2,Scottish Right                                                                                      ,2,2
+3,MegaMeow Imperial Stout                                                                             ,3,3
+4,Peaches-N-Cream                                                                                     ,4,4
+5,World Burp Beer 2002                                                                                ,5,5
+6,Icon Sender                                                                                         ,0,6
+7,Divina IPA                                                                                          ,6,7
+8,Light Of The Ozarks                                                                                 ,7,8
+9,Warriors Bock                                                                                       ,8,9
+10,Firehouse Coffee Stout                                                                              ,9,10
+11,Coffee Infused Bitter                                                                               ,3,11
+12,Belgian Style Wit                                                                                   ,3,12
+13,Réserve No. 3                                                                                      ,10,13
+14,Southern Saints India Wheat Ale                                                                     ,11,14
+15,Champagne Toast                                                                                     ,3,15
+16,The Sky Is High (wet Hopped Pale Ale)                                                               ,12,16
+17,Addison                                                                                             ,4,17
+18,Ocean Barley Wine                                                                                   ,13,18
+19,Schwartz Hop                                                                                        ,0,19
+20,Stove By A Whale                                                                                    ,14,20
+21,Cerveza India                                                                                       ,15,21
+22,Bojan Wielkopolskie                                                                                 ,16,22
+23,Porter                                                                                              ,11,23
+24,Sneaky Raz                                                                                          ,17,24
+25,Rock Ice                                                                                            ,18,25
+26,Eastwood - Equinox                                                                                  ,0,26
+27,Fortuna                                                                                             ,19,27
+28,Joy Division Series: No Love Lost                                                                   ,4,28
+29,Walshtown                                                                                           ,20,29
+30,Leinenkugels Ginger Shandy                                                                          ,21,30
+31,Episode 6: Hazy Pale Ale Citra & Galaxy & Lemon Drop                                                ,16,31
+32,Samuel Adams New World Lager                                                                        ,14,32
+33,Bavarias Best Imperial Stout                                                                        ,22,33
+34,Dudeling                                                                                            ,0,34
+35,Eldo Fresh Hop IPA                                                                                  ,3,35
+36,Troubadour Magma Special Edition 2011 - Cascade Hop                                                 ,23,36
+37,Forest Nymph                                                                                        ,24,37
+38,Trip In The Woods: Madeira Aged Ovila                                                               ,0,38
+39,Tasmanian Wild Ale                                                                                  ,9,39
+40,Weizen To ILL                                                                                       ,25,40
+41,Furlong                                                                                             ,26,41
+42,Iced Caramel Macchiato Stout                                                                        ,27,42
+43,Redhook Double Black Stout                                                                          ,28,43
+44,Cranberry                                                                                           ,29,44
+45,Smoke On The Water                                                                                  ,30,45
+46,Village V Anniversary - Barrel Aged Tripel                                                          ,31,46
+47,Pretty Peach                                                                                        ,25,47
+48,Mighty Fine                                                                                         ,17,48
+49,Lomond Gold                                                                                         ,32,49
+50,Wild Billy Winter Bock                                                                              ,0,50
+51,Java-Lantern Porter                                                                                 ,11,51
+52,George Dickel Whisky Barrel Aged Lemon Pale Ale                                                     ,33,52
+53,Helles Bock                                                                                         ,34,53
+54,Icon Series: Coffee Porter                                                                          ,35,54
+55,Marina The Grim North Black IPA                                                                     ,36,55
+56,Sheena                                                                                              ,37,56
+57,La Blanche De Drummond                                                                              ,10,57
+58,IPA                                                                                                 ,19,58
+59,Three Flowers                                                                                       ,0,59
+60,Mutter Zebains Dunkelhefe                                                                           ,28,60
+61,La Temps Des Brunes                                                                                 ,23,61
+62,Vibin’                                                                                            ,27,62
+63,Aw Jeff-It                                                                                          ,24,63
+64,Dank IPA                                                                                            ,38,64
+65,Applewood Ale                                                                                       ,14,65
+66,Bakery: Coconut Macaroon                                                                            ,0,66
+67,Jamaican Me Crazy Coffee Stout                                                                      ,39,67
+68,Oxidizer                                                                                            ,40,68
+69,Winter IPA                                                                                          ,41,69
+70,Magic #411 - Wild Strawberry/Rhubarb/Vanilla Smoothie IPA                                           ,42,35
+71,Zephyr IPA                                                                                          ,19,70
+72,Smiling Ivan                                                                                        ,43,71
+73,Blueberry Blonde                                                                                    ,24,72
+74,Stallion Elixer                                                                                     ,44,73
+75,Norway José IPA                                                                                    ,36,74
+76,Vienna Lager                                                                                        ,19,75
+77,Dirty Hop Water: My Ding-A-Ling                                                                     ,45,76
+78,Early Iron ESB                                                                                      ,19,77
+79,Milk Chocolate Cherry Stout                                                                         ,46,78
+80,Otway                                                                                               ,47,79
+81,Mildly Perplexed                                                                                    ,48,80
+82,Iki Beer Ginger                                                                                     ,23,81
+83,Cellared Double Gold Medal 2014 Wee Heavy                                                           ,24,82
+84,Falstaffs Revenge                                                                                   ,49,83
+85,Ptite Brett                                                                                         ,10,84
+86,Hop Project #12                                                                                     ,50,85
+87,Hefeweizen                                                                                          ,12,86
+88,Appleanche                                                                                          ,21,87
+89,8-6-Rye                                                                                             ,50,88
+90,Blueberry Grind                                                                                     ,51,89
+91,Berlin Bulldog                                                                                      ,0,90
+92,Chief Lightfoot                                                                                     ,3,91
+93,Table Weiss                                                                                         ,45,92
+94,Marzan Ale                                                                                          ,19,93
+95,Kirkland Signature Brown Ale                                                                        ,3,94
+96,Raspberry Swine Cooler                                                                              ,52,95
+97,Red Carpet Ale                                                                                      ,0,96
+98,Super Love                                                                                          ,44,97
+99,Oh Four! Oatmeal Stout                                                                              ,44,98
+100,The Union                                                                                           ,14,99
+101,Nimbus ^2                                                                                           ,53,100
+102,Go Devil                                                                                            ,54,101
+103,Hr. Frederiksen Væsel Brunch                                                                       ,55,102
+104,Derby Down                                                                                          ,49,103
+105,Mikkeller / The Pastels – Pastelism                                                               ,55,104
+106,Tree Hugging Wood Chopping Mother Loving IPA                                                        ,56,56
+107,Faction Barleywine                                                                                  ,0,105
+108,Nutha Mate Auz Ale                                                                                  ,57,106
+109,16 Barrels Double Golden                                                                            ,38,107
+110,Surrey Sour                                                                                         ,11,108
+111,Wells Bombardier (English Premium Bitter)                                                           ,58,109
+112,Plem                                                                                                ,58,110
+113,Mint Chocolate Collusion                                                                            ,51,111
+114,Deep Cut Reserve Series - RR#23                                                                     ,27,112
+115,Rozha Hibiscus Lager                                                                                ,14,113
+116,Dark Weasel Porter                                                                                  ,19,114
+117,Speedway Stout - Honey Graham                                                                       ,0,115
+118,Traust                                                                                              ,0,116
+119,Chanukah Hanukkah Pass the Beer 2017                                                                ,59,117
+120,Rhubarb Berlinerweiss                                                                               ,34,118
+121,Belgian White                                                                                       ,11,119
+122,Rye Crush                                                                                           ,3,120
+123,Doehnelles                                                                                          ,3,35
+124,Lookaftering                                                                                        ,57,121
+125,Gose                                                                                                ,60,122
+126,Steamed Fritz                                                                                       ,61,123
+127,Barrel Project 18.01                                                                                ,4,124
+128,Circle Of Trust                                                                                     ,62,125
+129,Zeds Dead Blood Orange                                                                              ,34,126
+130,Bootleg Oatmeal Stout                                                                               ,28,127
+131,Daisy Mae                                                                                           ,9,128
+132,Carmen - Kiwi                                                                                       ,46,129
+133,Tart n Juicy Sour IPA                                                                               ,0,129
+134,Bison Weizen                                                                                        ,63,130
+135,Cascade Sang Rouge                                                                                  ,0,131
+136,Dogmatic                                                                                            ,38,132
+137,Black Forest Bastard                                                                                ,0,133
+138,Gunnpowder IPA                                                                                      ,26,134
+139,Santas Beered 10                                                                                    ,32,135
+140,Berkeley Brown                                                                                      ,14,136
+141,Edelmeister Radler                                                                                  ,64,137
+142,Holiday In Cascadia                                                                                 ,16,138
+143,BBR (Beaver Blue Ribbon)                                                                            ,3,139
+144,Raspberry American Sour                                                                             ,65,140
+145,ChamALEon                                                                                           ,49,141
+146,Imperial Amber Ale                                                                                  ,58,142
+147,Sunburnt Irish Red                                                                                  ,13,143
+148,Neziah Bliss                                                                                        ,47,144
+149,Brandy Aged Tart Double Stout                                                                       ,34,145
+150,Black Tonic                                                                                         ,0,146
+151,Precipitation Porter                                                                                ,29,147
+152,Hammer Blont                                                                                        ,3,148
+153,Mashina                                                                                             ,62,149
+154,Stolt Lager                                                                                         ,20,150
+155,Thats A Paddlin                                                                                     ,13,151
+156,Inner Dinosaur Rye India Pale Ale                                                                   ,34,152
+157,UB Export Strong                                                                                    ,4,153
+158,Bay Muck Brown Ale (brewed With Caramello Bars)                                                     ,66,154
+159,Urban Sombrero                                                                                      ,12,155
+160,Cocoa Milk                                                                                          ,29,156
+161,Little India Pale Ale (100% Vienna Malt)                                                            ,0,157
+162,Nog                                                                                                 ,0,158
+163,Collaborative Evil                                                                                  ,40,159
+164,Zephyr Pina Colada                                                                                  ,0,160
+165,Hirsch-Gold                                                                                         ,32,161
+166,Uncle Ernies Oatmeal Pale Ale                                                                       ,22,162
+167,Avatar Gin-Barrel Aged                                                                              ,19,163
+168,Blueberry Hoppy Meal                                                                                ,3,164
+169,Smuttynose IPA W/Amarillo And Citra                                                                 ,51,165
+170,A Terrible Beauty                                                                                   ,28,166
+171,Experiment-Ale: Batch #66                                                                           ,2,167
+172,Blanche                                                                                             ,12,168
+173,Wheat Ale                                                                                           ,10,12
+174,Queen of Cups                                                                                       ,67,169
+175,Belgian Saison                                                                                      ,68,170
+176,Maple Bacon Porter                                                                                  ,10,171
+177,Pinkly Taurus                                                                                       ,19,172
+178,Chti Brune                                                                                          ,2,173
+179,Philadelphia Porter                                                                                 ,69,174
+180,Purgatory Black Cream Ale                                                                           ,4,175
+181,Quaff Bros Grand Crow                                                                               ,26,176
+182,Light Beer                                                                                          ,29,177
+183,The Decline                                                                                         ,70,178
+184,The Calling                                                                                         ,0,179
+185,Bionda                                                                                              ,0,180
+186,Banana Nut Brown                                                                                    ,6,181
+187,Nitro                                                                                               ,19,182
+188,The Hop Collective (THC): Equinox                                                                   ,0,183
+189,Iwatekura IPA                                                                                       ,68,17
+190,Unity                                                                                               ,5,184
+191,Tripel K                                                                                            ,0,185
+192,Plum Gueuze                                                                                         ,23,186
+193,Rauchbier                                                                                           ,34,187
+194,MK Ultra                                                                                            ,4,188
+195,Dark Cloud                                                                                          ,34,189
+196,Badetiss                                                                                            ,27,190
+197,Altbier                                                                                             ,24,191
+198,Barleys Bombshell Blonde                                                                            ,58,192
+199,Wasatch Switch                                                                                      ,29,193
+200,Imperial Stout                                                                                      ,71,194
+201,Heritage Farmhouse Saison                                                                           ,29,195
+202,Let It Ryed IPA                                                                                     ,57,196
+203,Oryza IPA                                                                                           ,27,197
+204,Scottish Ale                                                                                        ,16,83
+205,Black Hole (Bourbon Edition)                                                                        ,30,198
+206,Streif                                                                                              ,72,199
+207,Coco Loco                                                                                           ,26,200
+208,Concrete Peaks                                                                                      ,40,201
+209,Oatmeal Stout                                                                                       ,34,202
+210,Berenstain Brown                                                                                    ,19,203
+211,Fraile                                                                                              ,68,204
+212,Christmas Farm Ale                                                                                  ,73,205
+213,Belgian IPA                                                                                         ,27,206
+214,Bourbon Barrel Existential Porter                                                                   ,21,207
+215,Bourbon Barrel Double Stout                                                                         ,19,208
+216,Older Viscosity                                                                                     ,0,209
+217,Série Signature - Hopfenweisse                                                                     ,0,210
+218,Tipperary Red                                                                                       ,10,211
+219,Tropical Heatwave Wheat Ale                                                                         ,34,212
+220,The Mighty Wurlitzer                                                                                ,27,213
+221,Black Cherry Sherry Stout                                                                           ,74,214
+222,Empirical 7                                                                                         ,51,215
+223,Cherry Lime Gose                                                                                    ,0,216
+224,Kilikia Light                                                                                       ,49,217
+225,Bonfire & Illumination                                                                              ,75,218
+226,Döbler Fränkisches Festtagsbier                                                                   ,34,219
+227,I’m So Horny!                                                                                     ,22,220
+228,Gorgeous George                                                                                     ,16,221
+229,All is Well                                                                                         ,40,222
+230,Taïga                                                                                              ,76,133
+231,Redneck Alt                                                                                         ,10,223
+232,Framboise Noir                                                                                      ,41,224
+233,Stop & Do                                                                                           ,4,225
+234,Black Harvest Stout                                                                                 ,4,226
+235,Stacker                                                                                             ,24,227
+236,Haboob Black IPA                                                                                    ,21,228
+237,Sheepshead Stout                                                                                    ,45,229
+238,Bourbon Barrel-aged Dark Star                                                                       ,21,230
+239,Not Yo Mamas Java                                                                                   ,19,231
+240,High Nose Snow                                                                                      ,29,232
+241,Big Dummy IPL                                                                                       ,61,233
+242,East River IPA                                                                                      ,13,234
+243,Burgherren Pils                                                                                     ,4,235
+244,Das Frettchen Oktoberfest                                                                           ,20,236
+245,Strawberry Detention Double IPA                                                                     ,22,237
+246,Belgian Golden                                                                                      ,29,238
+247,Teachers Aide                                                                                       ,27,239
+248,Bohemia ipa                                                                                         ,34,240
+249,Ground Zero / White Stork Grounded Stork Saison Grisette                                            ,0,241
+250,Wee-Heavy                                                                                           ,77,242
+251,Redfeather Session IPA                                                                              ,78,243
+252,Endurance (2015 Ski To Sea Race)                                                                    ,79,244
+253,Sesh                                                                                                ,3,245
+254,Pumpkin Lager                                                                                       ,3,246
+255,Vitamin O                                                                                           ,25,247
+256,Boh Pils                                                                                            ,11,248
+257,Old Growler                                                                                         ,11,249
+258,Trial & Error # 132 - Wet Hopped Saison                                                             ,47,250
+259,"The ""Royal Wheat""                                                                                   ",58,251
+260,Bitter                                                                                              ,4,252
+261,Muerte Al Cereal                                                                                    ,44,253
+262,Dubec                                                                                               ,24,254
+263,Liquid Advent                                                                                       ,58,255
+264,Saison                                                                                              ,3,256
+265,Session Black IPA                                                                                   ,6,257
+266,Old 96 Sticke Alt                                                                                   ,29,258
+267,Skittles Berliner                                                                                   ,0,259
+268,Saving Daylight                                                                                     ,35,260
+269,Flippin’ Frappe DIPA                                                                              ,46,261
+270,Jubilee                                                                                             ,27,262
+271,Rapid Transit                                                                                       ,49,263
+272,Jai Alai IPA - Key Lime                                                                             ,28,264
+273,Archives 1804 T                                                                                     ,49,265
+274,Cranberry Berliner                                                                                  ,19,163
+275,Abbey Ale                                                                                           ,27,266
+276,Green And Gold                                                                                      ,0,267
+277,Solicitation                                                                                        ,25,15
+278,SVE Kölsch                                                                                         ,24,268
+279,Throw Back Pilsner                                                                                  ,52,269
+280,MOAB (Mother Of All Bettys)                                                                         ,45,270
+281,Monkish / Half Acre Here To Fish                                                                    ,25,271
+282,Czech-Style Pilsner                                                                                 ,0,272
+283,Short-Term Immortal                                                                                 ,33,273
+284,Coal Train-Dates & Currants                                                                         ,0,274
+285,Winter Warmer                                                                                       ,34,275
+286,"Virginia Cobbler: Cherry, Peach                                                                     ",4,276
+287,La Loggia Tipo Pilsen                                                                               ,51,277
+288,Town Series: Totally Bonkers                                                                        ,21,278
+289,Hopicorn                                                                                            ,49,279
+290,Shinjiko Sekiyo Amber Ale                                                                           ,80,280
+291,Odranoel                                                                                            ,3,281
+292,Dockside Schwarzbier                                                                                ,44,282
+293,Pride Of Nekron                                                                                     ,5,283
+294,Triple Play                                                                                         ,25,284
+295,Planet Oedipus Lifeform No. 1-PO17-GL-HMBO                                                          ,3,285
+296,Bottle Rocket                                                                                       ,55,286
+297,Blitzen                                                                                             ,27,287
+298,Little Bastard Ale                                                                                  ,62,288
+299,Monkin                                                                                              ,79,289
+300,End of The Line - Simcoe IPA                                                                        ,58,290
+301,Wermlands Ale                                                                                       ,22,291
+302,Cuivre                                                                                              ,25,292
+303,Obsession Ale                                                                                       ,35,7
+304,Manchurian Candidate                                                                                ,13,293
+305,Island Daydream                                                                                     ,0,294
+306,Apparition Double IPA - Habanero                                                                    ,34,295
+307,Beer Bath                                                                                           ,29,296
+308,Eureka W/ Citra                                                                                     ,0,297
+309,Genesee Brew House Unfiltered IPA                                                                   ,81,298
+310,Whistle Pig Juniper Ale                                                                             ,82,299
+311,Monk House                                                                                          ,12,300
+312,FFG                                                                                                 ,14,301
+313,Plum And Cardamom Rye Saison (Hops & Pie Collaboration)                                             ,34,302
+314,Druthers Sour Brown                                                                                 ,19,303
+315,Bourbon Aged Barleywine                                                                             ,79,304
+316,Hertog Jan Grand Prestige Vatgerijpt Bourbon                                                        ,21,305
+317,Rhenish Alt                                                                                         ,19,306
+318,KellerBier                                                                                          ,34,307
+319,Sugar And Spice And Everything Nice Belgian Ale                                                     ,40,308
+320,Bitter Buffalo India Brown Ale                                                                      ,62,309
+321,Samson Budweiser Bier Černý                                                                       ,24,310
+322,"Anastasias Chocolate Fantasy (With Coconut, Buckwheat, & Lactose)                                   ",22,311
+323,Double Dry Hopped Art & Industry                                                                    ,39,312
+324,2 Jacks                                                                                             ,83,307
+325,Mods Pale Ale                                                                                       ,84,313
+326,Estrella Galicia 1906 Black Coupage                                                                 ,49,314
+327,Piebalga                                                                                            ,14,315
+328,Pale Ale                                                                                            ,44,316
+329,Summer Buzz                                                                                         ,49,317
+330,Confucius Says                                                                                      ,36,318
+331,Salinenbräu Hell                                                                                   ,85,319
+332,Proud Pilsner                                                                                       ,26,320
+333,ConocoGIN                                                                                           ,86,321
+334,F.J.R. Imperial White IPA                                                                           ,34,322
+335,Fashionably Late                                                                                    ,87,323
+336,Gooseberry Changeling                                                                               ,22,324
+337,Calypso                                                                                             ,0,325
+338,Sidewinder Red Ale                                                                                  ,4,326
+339,Tart                                                                                                ,44,327
+340,Off White Wit                                                                                       ,19,328
+341,Centennial IPA                                                                                      ,57,329
+342,Stout                                                                                               ,35,330
+343,Scovilliaus Maximus                                                                                 ,0,331
+344,SINGULARITY IPA                                                                                     ,35,332
+345,City Steam Amarillo IPA                                                                             ,0,333
+346,Alexander Keiths Red Amber Ale                                                                      ,24,74
+347,Princess                                                                                            ,34,334
+348,Crystal Springs Pilsner                                                                             ,11,335
+349,The Bunnyman White IPA                                                                              ,40,336
+350,Hopocalypse White Label (Hazy Double IPA)                                                           ,68,337
+351,Golden Pippin Ale                                                                                   ,88,338
+352,SMaSH 007                                                                                           ,0,339
+353,Chaos Monkey                                                                                        ,0,90
+354,Double IPA                                                                                          ,74,340
+355,Leffe Royale Mount Hood                                                                             ,0,341
+356,Noble Oaf (Dry Hopped Edition)                                                                      ,58,342
+357,Kolsch                                                                                              ,3,70
+358,Quiet Ryeit                                                                                         ,51,108
+359,Victorias Secret                                                                                    ,34,343
+360,Cranberry Hopped Shandy                                                                             ,23,344
+361,Wet Hopped Blonde Ale                                                                               ,26,345
+362,Magic #3.5 - Pineapple Gose                                                                         ,34,289
+363,Coffee Vanilla Porter                                                                               ,28,346
+364,Pink Clouds Porter                                                                                  ,55,347
+365,Retro Red Ale                                                                                       ,21,348
+366,Old Detroit Alt Bier                                                                                ,19,349
+367,No. 21 Double IPA                                                                                   ,13,350
+368,Diet Starts Monday                                                                                  ,26,351
+369,Rus                                                                                                 ,4,352
+370,BeerZelis Fest Filtered                                                                             ,89,353
+371,Visen                                                                                               ,29,354
+372,West Shefford Cette Sorte Là                                                                       ,24,355
+373,The Nihilist                                                                                        ,49,356
+374,Out.Haus Ales IPA                                                                                   ,24,277
+375,Pilsen Paraguaya                                                                                    ,37,357
+376,Twangy Banjo                                                                                        ,84,329
+377,Double Rainbow                                                                                      ,10,358
+378,Foraging For Herbs                                                                                  ,19,359
+379,Fo-Porter                                                                                           ,28,56
+380,Dochter Seizoen                                                                                     ,90,360
+381,Sweetwater Motor Boat                                                                               ,49,361
+382,Ice Pick Ale                                                                                        ,19,362
+383,Oaked Barleywine                                                                                    ,67,363
+384,Roadside IPA                                                                                        ,44,364
+385,Bitter Bee                                                                                          ,4,365
+386,12oz Abs                                                                                            ,17,366
+387,Reality Bath                                                                                        ,19,58
+388,ETe Sans Fin                                                                                        ,0,105
+389,Twains Honest Lender Imperial Brown                                                                 ,27,302
+390,Dry Stout                                                                                           ,91,367
+391,Tornado Alley Dry Hopped                                                                            ,41,368
+392,Oktoberfest                                                                                         ,35,274
+393,The Mula IPA                                                                                        ,27,369
+394,Žatec Dark Lager                                                                                 ,17,370
+395,Wit Your Pants                                                                                      ,51,371
+396,Ølfabrikken Skråplan                                                                              ,39,372
+397,Hofbräu Winterzwickl                                                                               ,57,373
+398,Hup! Hup! Hup!                                                                                      ,80,374
+399,Color Field                                                                                         ,84,375
+400,Spicy Hawaiian                                                                                      ,44,376
+401,Porter For Princesses                                                                               ,55,377
+402,Omnipresent                                                                                         ,22,378
+403,St. Bretta Citrus Wildbier Gold Nugget Mandarin                                                     ,34,379
+404,Session IPA                                                                                         ,34,380
+405,Hiisi Rakki                                                                                         ,82,381
+406,Blackberry Crimson Oat                                                                              ,14,364
+407,Slam Dunkel Weizenbock                                                                              ,58,7
+408,Four Spacious Skies                                                                                 ,19,382
+409,Nerka                                                                                               ,21,383
+410,Double dry hopped Zeus king of gods                                                                 ,56,384
+411,Raisin Hell                                                                                         ,24,296
+412,Closing Campfire                                                                                    ,3,385
+413,Agrumes                                                                                             ,34,386
+414,Pear Katy                                                                                           ,92,387
+415,Hans Trapp                                                                                          ,14,388
+416,The Henchman                                                                                        ,4,389
+417,Distorter Porter                                                                                    ,19,390
+418,Great Lakes Crazy Canuck Brettanomyces Lambicus                                                     ,10,391
+419,Courlieu                                                                                            ,51,392
+420,East Chop Light(house) Lager                                                                        ,1,393
+421,Barrel Aged Maple Oatmeal Stout                                                                     ,0,394
+422,Brock Street Bock                                                                                   ,4,251
+423,Cuvee Delphine - Cask Strength 4 Roses BA                                                           ,26,395
+424,Double Buck IPA                                                                                     ,10,396
+425,Metanoia                                                                                            ,14,397
+426,Funk Land Country Shuffle                                                                           ,14,398
+427,Neustadt Texas Tea Honey Stout                                                                      ,26,399
+428,Black Matter                                                                                        ,0,400
+429,Mulhollands Stash Barleywine                                                                        ,93,401
+430,Rossa Gems                                                                                        ,3,402
+431,Four Saisons                                                                                        ,11,403
+432,NWC Radish Wheat                                                                                    ,2,404
+433,The Point                                                                                           ,26,405
+434,Cali IPA                                                                                            ,35,406
+435,Free Range                                                                                          ,0,407
+436,English IPA                                                                                         ,6,408
+437,Public House                                                                                        ,32,409
+438,Party Dome                                                                                          ,44,410
+439,Remnant Of Dragon                                                                                   ,12,411
+440,Sheldon                                                                                             ,0,412
+441,Barkeater Amber Ale                                                                                 ,74,56
+442,Longest Night                                                                                       ,49,413
+443,Adnams Spindrift                                                                                    ,19,414
+444,X-1 008                                                                                             ,87,415
+445,Redwood Lodge American Dark                                                                         ,44,416
+446,All Is Lost!                                                                                        ,14,417
+447,38 State Red Ale                                                                                    ,34,418
+448,Bière Du Père                                                                                     ,35,419
+449,Rebel Alliance                                                                                      ,58,420
+450,Vanilla Oak (Six Ways)                                                                              ,14,421
+451,Louise                                                                                              ,44,422
+452,Trailblazer                                                                                         ,25,17
+453,Father Christmas - Cabernet Barrel Aged                                                             ,19,423
+454,Night Of Terror                                                                                     ,14,424
+455,Muscle Memory                                                                                       ,0,398
+456,Tr-Hop-ical Storm                                                                                   ,13,398
+457,11 Barrel                                                                                           ,25,425
+458,Postulate                                                                                           ,7,426
+459,Pumpkin Bock                                                                                        ,27,427
+460,Schlappeseppel Export                                                                               ,35,428
+461,BSH (Back Street Heroes)                                                                            ,19,429
+462,Always Eatin Dinner                                                                                 ,27,430
+463,Sorcerer                                                                                            ,27,426
+464,Who Hopped Ya?                                                                                      ,2,315
+465,Motueka Incandenza                                                                                  ,11,431
+466,Iced Tea                                                                                            ,22,432
+467,Blackberry Raspy                                                                                    ,58,433
+468,Hefe Shandy                                                                                         ,68,7
+469,Trashmaster 2013                                                                                    ,29,434
+470,Magic #8 - Maple Candied Almond Pale                                                                ,11,435
+471,Whirlpool                                                                                           ,34,302
+472,Bamboozled                                                                                          ,32,436
+473,Cantillon à lEcossaise                                                                             ,34,437
+474,Verbal Hologram                                                                                     ,38,438
+475,Black Oak Cafe Au Lait                                                                              ,87,439
+476,Blue Mountain Pilsner                                                                               ,13,440
+477,Peachacalypse                                                                                       ,34,441
+478,Blackberry Coffee Latte                                                                             ,0,442
+479,Possible Worlds                                                                                     ,23,443
+480,Four Cs American Pale Ale                                                                           ,3,444
+481,Robust Porter                                                                                       ,26,445
+482,Abstrakt AB:05                                                                                      ,4,446
+483,Czar Face (Bourbon Barreled)                                                                        ,19,447
+484,Kees / De Molen Lapsang Souchong                                                                    ,4,74
+485,Rye Bread Porter                                                                                    ,19,448
+486,Weird Beard / Bexar County A Lemon Tree My Dear Watson                                              ,29,449
+487,Too Nice Yams                                                                                       ,24,450
+488,Sheep Stealer                                                                                       ,32,451
+489,Pilsener                                                                                            ,27,452
+490,What Else Is New?                                                                                   ,62,261
+491,Lawn American Cream Ale                                                                             ,25,453
+492,Strap-Ons                                                                                           ,58,454
+493,Jolly Abbot Barley Wine                                                                             ,94,455
+494,CircumSaison                                                                                        ,47,456
+495,Maiden Voyage                                                                                       ,55,457
+496,Heavy Seas Bourbon Barrel Aged Below Decks                                                          ,47,458
+497,The CREATURE From The BROWN LEGUME                                                                  ,34,459
+498,Acid Queen                                                                                          ,74,460
+499,The Big Nasty                                                                                       ,52,461
+500,International Relations IPA                                                                         ,95,462
+501,Stauffenberg Stout                                                                                  ,50,463
+502,Citronic Sessions                                                                                   ,27,266
+503,Cuvée Alex Le Rouge (Jurassian Imperial Stout)                                                     ,74,464
+504,Templeton Session Style Ale                                                                         ,79,465
+505,Over The Barrel - Grape                                                                             ,69,466
+506,Masala                                                                                              ,4,467
+507,Patriot Pale                                                                                        ,0,74
+508,Nikolai Vorlauf - Double Barrel Aged                                                                ,46,270
+509,Barrel-Aged Chocolate Rye Porter With Blood Orange                                                  ,46,468
+510,Bravo! Bravo!                                                                                       ,96,469
+511,Maibock                                                                                             ,0,470
+512,Pilsner                                                                                             ,21,81
+513,Belfast Ale                                                                                         ,4,471
+514,Allgäuer Festbier                                                                                  ,86,142
+515,Raven Stout                                                                                         ,27,472
+516,Bohemian Pils                                                                                       ,29,473
+517,Lupulin Shake                                                                                       ,34,474
+518,Chocolate Milk Stout                                                                                ,4,475
+519,Ginger Catching Up                                                                                  ,3,476
+520,De Ranke Hop Harvest 2013                                                                           ,97,477
+521,Tropic Junction                                                                                     ,22,93
+522,Achilles Field                                                                                      ,28,478
+523,Marketing Ploy                                                                                      ,38,479
+524,Lava Rock Porter                                                                                    ,0,480
+525,Smoked Porter                                                                                       ,19,481
+526,Big Stitch Nick                                                                                     ,0,435
+527,Everything Sucks                                                                                    ,23,482
+528,Imperial IPA                                                                                        ,19,483
+529,Wheat Stout                                                                                         ,19,484
+530,Lakrids #1 (Piratos)                                                                                ,25,485
+531,Kendi                                                                                               ,3,486
+532,Rodolfo                                                                                             ,19,487
+533,Hoof-E-Weizen                                                                                       ,48,488
+534,Point Oktoberfest                                                                                   ,34,166
+535,Double Hop                                                                                          ,39,489
+536,DIPA                                                                                                ,0,490
+537,Fresh Coast - Mosaic                                                                                ,55,491
+538,Shadow Watcher                                                                                      ,29,492
+539,Soorj Coffee Stout                                                                                  ,14,493
+540,Beverly Crusher                                                                                     ,38,494
+541,Southbay Blonde                                                                                     ,21,495
+542,256 Extra Pale Ale                                                                                  ,33,496
+543,Southern Dobis Pale Ale (Cask) W/ Citra Hops                                                        ,98,497
+544,Dropkick Dunkle                                                                                     ,21,498
+545,Clip Art - Azacca                                                                                   ,44,499
+546,Damn Straight                                                                                       ,0,500
+547,Outcast Amber                                                                                       ,58,501
+548,American Style Pale Wheat Ale                                                                       ,0,502
+549,Wowzers Summer Wheat                                                                                ,94,317
+550,BeerZelis Chernoe                                                                                   ,0,503
+551,White IPA                                                                                           ,35,504
+552,Tipperyery Stout                                                                                    ,14,505
+553,Houblon Or                                                                                          ,0,426
+554,Imperial Brown Ale                                                                                  ,3,506
+555,Koff Velvet III                                                                                     ,47,507
+556,Double Nap (Wet Hopped Double Tap)                                                                  ,50,508
+557,Hopsquatch II                                                                                       ,37,509
+558,One Goal. One Ryed                                                                                  ,0,510
+559,Keltek King                                                                                         ,35,511
+560,Friends Forever                                                                                     ,74,512
+561,Stoutlandish                                                                                        ,19,513
+562,Twisted Root                                                                                        ,56,514
+563,Big Doedish                                                                                         ,0,515
+564,Barn Phantom Gose With Mango                                                                        ,2,69
+565,Rolling Hills Pils                                                                                  ,29,516
+566,Fritzicuffs                                                                                         ,58,517
+567,Red Honey Ale                                                                                       ,44,518
+568,Nitro Chocolate Vanilla Orange Porter                                                               ,0,519
+569,Sabuccino Sessanta Stout                                                                            ,46,520
+570,Cucumber Pale Ale                                                                                   ,44,521
+571,Bronzen Schild Belgian Tripel Ale                                                                   ,2,522
+572,American Bitter Pale Ale                                                                            ,64,523
+573,ISO: Chuck Biscuits FT: Simcoe                                                                      ,25,524
+574,Beelzebub                                                                                           ,99,525
+575,Amber Ale                                                                                           ,27,526
+576,Schönbuch Ur-Edel                                                                                  ,4,527
+577,La Franc Bois                                                                                       ,89,528
+578,11 Amp                                                                                              ,23,529
+579,Fat Cat Unique Pale Ale                                                                             ,27,223
+580,Chocolate Hazelnut Porter                                                                           ,29,530
+581,Hopbominable Snowmonster                                                                            ,52,531
+582,Rousse Forte à La Canneberge Et Aux Épices                                                        ,12,532
+583,Centennial King IPA                                                                                 ,22,533
+584,Finest Kind                                                                                         ,10,534
+585,Green Card                                                                                          ,35,505
+586,Sentencio                                                                                           ,84,535
+587,Bastille                                                                                            ,0,536
+588,Kruzhka Svezhego                                                                                    ,29,537
+589,Doble IPA                                                                                           ,10,538
+590,Astrolabe                                                                                           ,38,539
+591,PJW 30th Anniversary Ale                                                                            ,88,540
+592,Deluxe Spring Lager                                                                                 ,60,541
+593,Saison Lemon Sour                                                                                   ,16,542
+594,Belgian Pale                                                                                        ,29,543
+595,La Radieuse                                                                                         ,100,544
+596,Euclid Special Bitter                                                                               ,73,545
+597,Bierhaus Light                                                                                      ,9,546
+598,Bramble On                                                                                          ,4,547
+599,Odlo Lievraake                                                                                      ,3,548
+600,Diamond Street Double                                                                               ,58,549
+601,Union Bhoys Lager                                                                                   ,2,550
+602,Café Negro Coffee Infused Porter                                                                   ,69,551
+603,Cit-Rawr                                                                                            ,29,552
+604,Mint Stout                                                                                          ,37,553
+605,Bière De Printemps De LOncle HANSI                                                                 ,19,554
+606,Alphaholic                                                                                          ,23,551
+607,Rye Of The Tiger IPA                                                                                ,34,555
+608,Birming-Hambic                                                                                      ,31,556
+609,Ruby Crystal Mandarina - Lemon Extract And Kaffir Lime Leaves                                       ,38,557
+610,Jami                                                                                                ,19,133
+611,Coalesce                                                                                            ,44,558
+612,Freckle Face                                                                                        ,101,559
+613,Dark Horse                                                                                          ,7,388
+614,Shades Of Amber                                                                                     ,29,560
+615,Town Hall Maibock                                                                                   ,94,561
+616,Treble Hook Tripel                                                                                  ,44,562
+617,Mango My Tango                                                                                      ,44,563
+618,1811 Pre-Prohibition Lager                                                                          ,68,564
+619,Modest Molly                                                                                        ,0,15
+620,Schwarz IPA                                                                                         ,0,565
+621,Doctors Orders                                                                                      ,0,338
+622,Södvik Säsong 2018                                                                                ,24,566
+623,Hopop Hetbop                                                                                        ,89,567
+624,Brett Hop Harvest Saison                                                                            ,27,568
+625,Luponic Plague                                                                                      ,38,569
+626,Knightman Cometh                                                                                    ,49,510
+627,Piper Doon                                                                                          ,49,570
+628,Double Dry Hopped Snapper                                                                           ,25,133
+629,Claymore Scotch Ale                                                                                 ,13,571
+630,Santas Calaveras CHIPOTE-LES                                                                        ,41,572
+631,Beagle Fuegian Cream Stout                                                                          ,33,573
+632,Cream Ale                                                                                           ,0,574
+633,Sebright Golden Ale                                                                                 ,0,575
+634,Whitcomb Wit                                                                                        ,40,576
+635,Düsseldorf Alt                                                                                     ,51,505
+636,Honey Ginseng Ale                                                                                   ,19,577
+637,Traffic Jam Grand Theft Pilsner                                                                     ,23,578
+638,Noroc                                                                                               ,80,579
+639,Black Eye                                                                                           ,38,580
+640,Le Peche Mode                                                                                       ,58,581
+641,(2014) Bourbon Barrel Aged Dark Territory Imperial Stout                                            ,52,582
+642,Barrio NCAAle                                                                                       ,11,583
+643,Thats My Jam                                                                                        ,81,584
+644,Citra S.M.A.S.H. IPA                                                                                ,44,585
+645,Fox Devil Wild                                                                                      ,102,556
+646,Cinnabock                                                                                           ,58,586
+647,Fuck Donald Trump                                                                                   ,17,587
+648,King St Wharf Pale Ale                                                                              ,43,588
+649,Highland IPA                                                                                        ,45,589
+650,Vasaros Griausmas                                                                                   ,27,315
+651,Bambi Malná Sör                                                                                   ,50,56
+652,Consumption                                                                                         ,29,590
+653,Mr. Manager                                                                                         ,25,591
+654,Parklet ISA                                                                                         ,55,592
+655,Southern Sky French Pale Ale                                                                        ,9,593
+656,Calistoga Pilsner                                                                                   ,11,594
+657,Chalkstream                                                                                         ,103,595
+658,Sayonara IPA                                                                                        ,104,348
+659,Always and Forever                                                                                  ,49,596
+660,Javanog Cream Stout                                                                                 ,29,597
+661,t Smisje Kuvee Elektrik 979W                                                                        ,0,598
+662,Cask-It Series DNR Tequila Barrel Aged                                                              ,38,163
+663,Play Dead IPA                                                                                       ,0,599
+664,LAmarante                                                                                           ,58,600
+665,Crush Kill Destroy                                                                                  ,40,69
+666,Altmans Alt                                                                                         ,34,601
+667,Lager of The Lakes                                                                                  ,11,602
+668,Dunkelweizen                                                                                        ,23,603
+669,Bubble Head With Blood Orange Juice & Zest                                                          ,82,604
+670,Hummingbird Springs Saison                                                                          ,49,315
+671,Bayrisch Hefeweizen                                                                                 ,23,605
+672,Cherry Razz Sour                                                                                    ,34,83
+673,Safe Passage                                                                                        ,19,606
+674,Glutenberg Myrcène De Glace (Baril Unique)                                                         ,44,607
+675,Doughboy Munich Dunkel                                                                              ,105,608
+676,Neapolitan Medianoche                                                                               ,0,609
+677,Extreme Green IPA                                                                                   ,45,610
+678,Orange Blossom Saison                                                                               ,22,611
+679,Durlacher Hof Hefeweissbier                                                                         ,34,612
+680,Doc Masons XPA                                                                                      ,21,364
+681,Nebraska                                                                                            ,10,613
+682,Rye Pale Ale                                                                                        ,49,614
+683,Marzonis Wheat Wine                                                                                 ,19,615
+684,Fruit Bat Blueberry                                                                                 ,21,616
+685,Noble Provisions                                                                                    ,49,617
+686,Mikrozirkus 11 - Wilde Quitte                                                                       ,22,611
+687,Saison Multigrain                                                                                   ,0,618
+688,The Town Tart                                                                                       ,0,619
+689,Beta #22 Mosaic & Enigma New England DIPA                                                           ,46,620
+690,Billie                                                                                              ,4,621
+691,Boundary Waters Golden Lager                                                                        ,31,622
+692,Funked Up Series #30: Campo                                                                         ,0,573
+693,Dark End Of The Wheat                                                                               ,65,623
+694,Yuletide 2011                                                                                       ,10,624
+695,Watermelon Radler                                                                                   ,19,625
+696,Golden Spike Wheat                                                                                  ,13,626
+697,Ankerla Kolonial Red Ale                                                                            ,58,627
+698,Argus Mojito                                                                                        ,21,628
+699,Pale Project: Winter                                                                                ,24,623
+700,Lake On The Mountain Summer Ale                                                                     ,51,629
+701,Vriendshapsblend (Friendship Blend)                                                                 ,24,630
+702,All Hail Kohatu                                                                                     ,83,631
+703,Marks Mishop                                                                                        ,43,632
+704,King Leopold Belgian Stout (Healthy Spirits Barrel Aged)                                            ,22,633
+705,Idaho 7 Shatter                                                                                     ,16,138
+706,Carton / Barrier - Smash The Golds                                                                  ,38,163
+707,Oregon Trail Wit                                                                                    ,26,634
+708,Spangalang Pilsner                                                                                  ,38,635
+709,Irish Red                                                                                           ,0,574
+710,Sorachi Disaster                                                                                    ,35,636
+711,Aldobrandesca                                                                                       ,0,637
+712,"Jumpman, Jumpman, Jumpman                                                                           ",4,35
+713,100 Barrel Series #04 - Barleywine (Bourbon Barrel-Aged)                                            ,12,638
+714,Noble Sibling                                                                                       ,38,639
+715,Hersbrucker Lager                                                                                   ,19,640
+716,Governorfish                                                                                        ,26,641
+717,Koff APA                                                                                            ,6,448
+718,Aldersbacher Königinnen Weisse Hell                                                                ,6,642
+719,Jeremiah Red                                                                                        ,25,643
+720,Give Corn A Chance                                                                                  ,14,644
+721,Cornish Steam Lager                                                                                 ,29,643
+722,Holsten Radler                                                                                      ,46,645
+723,Smoked Stout                                                                                        ,27,646
+724,"Tequila, Cilantro, Lime, Chili Thang                                                                ",56,384
+725,Bellheimer Edel Export                                                                              ,22,647
+726,Granola Brown Ale                                                                                   ,3,648
+727,R2 Koelschip                                                                                        ,4,444
+728,Single Brew Stout                                                                                   ,58,649
+729,SHB: Simcoe                                                                                         ,22,650
+730,VaJaHa                                                                                              ,11,42
+731,Cascade                                                                                             ,81,651
+732,Rare Form                                                                                           ,22,652
+733,To The Yard (peach)                                                                                 ,68,653
+734,6 Foot 5 IPA                                                                                        ,4,654
+735,Mahrs Weisse                                                                                        ,9,655
+736,Dark Side Of The Moo                                                                                ,51,315
+737,Permanent Midnight (imperial Porter)                                                                ,44,656
+738,Imperial Lakta Coffee                                                                               ,19,657
+739,Niksicko Tamno                                                                                      ,0,658
+740,Acrobat DIPA                                                                                        ,51,69
+741,Second Hand Smoke                                                                                   ,86,58
+742,Oud Bruin (Cherry)                                                                                  ,22,659
+743,Holy Cowbell                                                                                        ,44,660
+744,Other Half/Burial - Diamond Mausoleum                                                               ,74,661
+745,Amore Achromatic                                                                                    ,25,662
+746,Summer Ale                                                                                          ,106,663
+747,Crabby Bills Ale                                                                                    ,14,63
+748,Railbender Ale                                                                                      ,19,664
+749,Karma                                                                                               ,29,665
+750,Royal Roots English-Style Porter                                                                    ,58,666
+751,Seth Lager                                                                                          ,34,667
+752,Research Series Lush #2                                                                             ,19,668
+753,Anfernee                                                                                            ,11,669
+754,NevaRRaven                                                                                          ,0,670
+755,Limb From Limb                                                                                      ,4,671
+756,De Rokerij                                                                                          ,102,388
+757,Clearwater Light                                                                                    ,79,672
+758,Pawpaw Lambic                                                                                       ,56,673
+759,Kaleidoscope Golden Strong Ale                                                                      ,52,674
+760,Kava                                                                                                ,61,675
+761,Tuesday (2018)                                                                                      ,86,676
+762,Schlafly Rye Bock                                                                                   ,57,677
+763,Rocket Shed                                                                                         ,46,678
+764,Pooh Bah Porter                                                                                     ,58,679
+765,Belgian                                                                                             ,49,680
+766,Liberty Station IPA                                                                                 ,2,681
+767,Sage On Saison                                                                                      ,0,682
+768,Roggen                                                                                              ,35,683
+769,Brett Pale Ale                                                                                      ,27,684
+770,Curly Tail Ale                                                                                      ,51,685
+771,Marzen                                                                                              ,9,686
+772,Marzen Original                                                                                     ,11,687
+773,Time Out Dry Irish Stout                                                                            ,28,688
+774,Visions of Delight                                                                                  ,0,560
+775,Helles                                                                                              ,0,369
+776,NY Local Weiss German Style Wheat Ale                                                               ,43,689
+777,Vanilla Bean Milk Stout                                                                             ,0,690
+778,Homefield 6                                                                                         ,34,691
+779,Gotlandsdrika                                                                                       ,25,692
+780,LEuphoria                                                                                           ,22,693
+781,Imperial Super Guy                                                                                  ,27,694
+782,Head High - Mango                                                                                   ,4,695
+783,Hard Rollin                                                                                         ,0,696
+784,Muskoka Twice As Mad Tom IPA                                                                        ,34,697
+785,Smooth Cran Job                                                                                     ,0,698
+786,High Carb Ale                                                                                       ,14,699
+787,Burnout Brown                                                                                       ,44,700
+788,Derivative: Citra                                                                                   ,0,315
+789,Ok2berfest                                                                                          ,26,701
+790,Spring Pale Ale                                                                                     ,12,702
+791,Crosby Pale                                                                                         ,58,315
+792,Chosin Reservoir Pilsener                                                                           ,26,703
+793,Clarity FLX IPA                                                                                     ,20,704
+794,Zeds In NJ - Pale 42                                                                                ,86,705
+795,Seven Eight Nine                                                                                    ,79,706
+796,Crew X 8.0                                                                                          ,107,707
+797,Vecchia Bastarda                                                                                    ,68,708
+798,Summer Saison                                                                                       ,79,709
+799,Oops! I Mangoed My Pants!                                                                           ,9,710
+800,Blunderbuss 2007                                                                                    ,4,711
+801,"Blunderbuss Barleywine 2012, Bourbon Barrel / Dry-hop Blend                                         ",34,510
+802,Dually                                                                                              ,12,440
+803,Crystal Ruby                                                                                        ,19,712
+804,First Batch Pale Ale                                                                                ,22,713
+805,Peach On The Beach (Sex On The Peach)                                                               ,6,714
+806,Temporal Oatmeal IPA                                                                                ,58,715
+807,Bohemian Rye Pilsner                                                                                ,34,716
+808,Ambrée                                                                                             ,14,717
+809,Makimwe IPA                                                                                         ,14,718
+810,Tony Goes Dancing                                                                                   ,19,719
+811,Virginias Own (Ghost 225)                                                                           ,67,720
+812,Black                                                                                               ,27,721
+813,BA X Imperial Stout Black Spirit Bourbon Barrel Ed                                                  ,27,573
+814,Buse à Queue Rousse                                                                                ,83,448
+815,Irish Stout                                                                                         ,24,722
+816,Anise Midnight                                                                                      ,10,241
+817,Woolly Bugger                                                                                       ,3,330
+818,Mankini                                                                                             ,68,723
+819,Pineapple Great Return                                                                              ,49,724
+820,Czars Tar Imperial Stout                                                                            ,62,725
+821,The Snuffler                                                                                        ,108,726
+822,Brewers ExperimentALE #67: 1917 Crystal AK                                                          ,10,727
+823,Happy Way IPA                                                                                       ,38,728
+824,Michelada                                                                                           ,51,729
+825,Passion                                                                                             ,57,730
+826,Full Shade                                                                                          ,34,731
+827,Beverwyck Black                                                                                     ,49,732
+828,Daymer                                                                                              ,0,439
+829,Rum Raisin Stout                                                                                    ,4,56
+830,Succubus                                                                                            ,24,733
+831,Bud Light Lime Grape-Fruit-Rita                                                                     ,0,734
+832,Schmidts & Grins                                                                                    ,27,735
+833,Black Pearl IPA                                                                                     ,29,736
+834,YCH Collab Session IPA                                                                              ,39,737
+835,Kwas Jota                                                                                           ,34,738
+836,Lubuskie Celtyckie                                                                                  ,58,535
+837,SenorWITa                                                                                           ,19,739
+838,Bridges To Burn                                                                                     ,19,740
+839,Sawdust City / Bar Hop The Berlin Decision                                                          ,51,741
+840,Milchkaffee                                                                                         ,83,742
+841,Limmat Bräu                                                                                        ,34,743
+842,Devils Teeth - Bourbon Barrel-Aged With Almonds And Cocoa Nibs                                      ,19,744
+843,Snow Cap                                                                                            ,16,745
+844,Thymus                                                                                              ,16,746
+845,Travel By Map                                                                                       ,29,747
+846,Hopshot IPA                                                                                         ,41,748
+847,Big Jim                                                                                             ,26,749
+848,Dominion Kristall Weizen                                                                            ,44,750
+849,Box Car Brown (Wine Barrel Aged)                                                                    ,96,181
+850,Brown Ale Con Agave                                                                                 ,0,751
+851,Pro-Am Series No. 6 - Mutineer                                                                      ,3,752
+852,Sommerweizen                                                                                        ,36,639
+853,Double Dry Hopped Aint Nothing Nice                                                                 ,0,753
+854,Road Triple                                                                                         ,45,754
+855,The Steel Wheels                                                                                    ,27,755
+856,Bila Nich                                                                                           ,48,756
+857,Winter Blonde                                                                                       ,38,757
+858,Raiders Ghost IPA                                                                                   ,73,758
+859,HaseWeizen                                                                                          ,26,759
+860,Tierra De Frontera                                                                                  ,3,760
+861,San Gabriel Ambra Rossa Di Treviso                                                                  ,34,761
+862,The Murican Dream                                                                                   ,10,287
+863,Bourbon Barrel Raspberry Stout                                                                      ,74,762
+864,Hefeweizen With Lemon                                                                               ,49,763
+865,Radical Road                                                                                        ,98,436
+866,Batch 100                                                                                           ,49,764
+867,Belmonter Weisse (Apricot)                                                                          ,49,765
+868,GDay Gummy                                                                                          ,21,766
+869,Drink It Down Pecan Brown                                                                           ,36,384
+870,TIME WARP CITRA IPA                                                                                 ,6,81
+871,Cool Beans Imperial Coffee Porter                                                                   ,35,767
+872,Royal Dutch Post Horn 16%                                                                           ,49,768
+873,Vink Heerlijk                                                                                       ,0,769
+874,Kumquat Margarita Gose                                                                              ,32,770
+875,Irlandzkie Mocne                                                                                    ,44,771
+876,Mörsugur                                                                                           ,0,772
+877,Socrates Coffee IPA                                                                                 ,25,510
+878,Barrell Aged Cobaltic Porter                                                                        ,27,465
+879,Saurons Nightlight                                                                                  ,4,302
+880,St. Dekkera Reserve: Sour Apricot Ale                                                               ,24,773
+881,Pumpkin Ale                                                                                         ,62,774
+882,Kuhnhenn Dawn Treader                                                                               ,62,775
+883,Mlado Pivo                                                                                          ,27,522
+884,Super Stout Coffee Stout                                                                            ,16,776
+885,Blonde Ale                                                                                          ,26,777
+886,Mad Seditious                                                                                       ,35,492
+887,Bergen County Bull Stout 2016                                                                       ,0,778
+888,Inisfada                                                                                            ,14,779
+889,Good Old Geoff                                                                                      ,25,780
+890,"Pomegranate, Ginger & Tangerine Blonde (Ghost 296)                                                  ",61,781
+891,6th Anniversary Chardonnay Barrel Aged Quad                                                         ,44,735
+892,ALS Hoppy Session Ale                                                                               ,109,782
+893,Old #19                                                                                             ,34,783
+894,Whiskey Barrel Aged Saison                                                                          ,105,784
+895,BrutAle Death Metal                                                                                 ,0,785
+896,Muga Joe Double Coffee Stout                                                                        ,12,786
+897,Gąska Beerbinka                                                                                    ,34,787
+898,Tripel                                                                                              ,0,788
+899,Hop Project #66                                                                                     ,49,789
+900,I Am The Knight                                                                                     ,25,790
+901,Blackberry Infused Jamaica Red                                                                      ,14,454
+902,Fire Knife                                                                                          ,51,791
+903,Tanger                                                                                              ,19,573
+904,Fonta Flora / Half Acre - Wolf Spit                                                                 ,0,792
+905,Simple Joule                                                                                        ,68,793
+906,Wheat Beer                                                                                          ,16,794
+907,Lupy                                                                                                ,19,795
+908,Laced With Passion                                                                                  ,50,796
+909,Wee Heavy                                                                                           ,27,797
+910,Signature Single Hop IPL                                                                            ,0,24
+911,Cathedral Grove California Common                                                                   ,11,798
+912,5th Ocean Belgian Blonde                                                                            ,30,799
+913,Coney Island Human Blockhead                                                                        ,11,800
+914,History and Tradition                                                                               ,35,801
+915,Hirschau 1812 Original                                                                              ,35,802
+916,Falling Squirrel Project #6                                                                         ,27,489
+917,Dopamine Double IPA                                                                                 ,25,803
+918,Juicy Jay - Barrel-Aged                                                                             ,27,804
+919,Bali Hai Premium                                                                                    ,68,805
+920,Fantasia Reserve                                                                                    ,57,806
+921,Rengakan Beer                                                                                       ,37,807
+922,Civil Works                                                                                         ,34,808
+923,Sigtuna Imperial Porter                                                                             ,14,809
+924,Pale Duke                                                                                           ,22,810
+925,Amarillo Single Hop Pale Ale                                                                        ,34,811
+926,Pedavena Speciale 110                                                                               ,40,812
+927,Belhaven Scottish Stout                                                                             ,11,336
+928,To Helles and Bock                                                                                  ,110,813
+929,Carbone                                                                                             ,38,814
+930,Fernetical                                                                                          ,5,815
+931,Clear Sky Creamsicle                                                                                ,49,8
+932,Long-Range Pils                                                                                     ,13,816
+933,Big Wake                                                                                            ,32,817
+934,Dat Moi                                                                                             ,3,52
+935,Kismet Saison                                                                                       ,6,818
+936,Rhye Pale Ale                                                                                       ,32,819
+937,Annabelle                                                                                           ,29,820
+938,Pardon You                                                                                          ,6,821
+939,Gridlock                                                                                            ,14,822
+940,Göller Weizenbock                                                                                  ,29,823
+941,Gweilo IPA                                                                                          ,35,237
+942,Tea Bagged Overrated                                                                                ,28,824
+943,Toque And Mitts                                                                                     ,0,825
+944,Yvan The Great: Belgian-Style Blonde (Beer Camp Across America)                                     ,34,826
+945,Brewhouse Rarities: Mimosa Beer                                                                     ,29,827
+946,Helles In Wonderland                                                                                ,51,828
+947,EXperimental Imperial IPA                                                                           ,0,829
+948,Red Rock Elephino                                                                                   ,49,830
+949,Spiced Pumpkin Ale                                                                                  ,22,831
+950,Lectio Divina                                                                                       ,111,832
+951,Vader Saber                                                                                         ,24,702
+952,Pile O Dirt Porter                                                                                  ,76,833
+953,Neutrino Pale Ale                                                                                   ,0,834
+954,Kotvans Single                                                                                      ,74,835
+955,Lemon Battlecat                                                                                     ,19,836
+956,Noël Des Géants                                                                                   ,82,837
+957,FoeHammer                                                                                           ,63,838
+958,"Leaves Of Grass: December 4, 2015                                                                   ",29,839
+959,Ill Be Bock                                                                                         ,27,840
+960,Mokra                                                                                               ,35,841
+961,Bodhi                                                                                               ,20,842
+962,Pickers Pale Ale                                                                                    ,68,528
+963,Attraction No. 13: Lifeguard off Duty                                                               ,25,328
+964,Galaxy Quest                                                                                        ,27,843
+965,Strawberry Wheat                                                                                    ,23,844
+966,10th Anniversary Barleywine Aged In Pinot Noir Barrels                                              ,11,845
+967,Alt-itude                                                                                           ,52,846
+968,Hop Scotch                                                                                          ,49,847
+969,Bones Brown Ale                                                                                     ,19,848
+970,The Swan On The Portside                                                                            ,29,849
+971,Scratch Beer 182 - 2015 (Scottish-Style Ale)                                                        ,74,440
+972,Cream Dream                                                                                         ,12,216
+973,ESB With Wild Goose Coffee                                                                          ,38,850
+974,Grissettastone                                                                                      ,14,851
+975,Golden Ale                                                                                          ,38,852
+976,Revolution                                                                                          ,0,853
+977,Prickly Pear Cactus Pineapple Fruitsicle                                                            ,11,854
+978,"Arboga 10,2                                                                                         ",27,855
+979,Meadow Road Wheat Beer                                                                              ,58,856
+980,Mother Baere                                                                                        ,4,857
+981,Maguire Irish Red Ale                                                                               ,0,858
+982,Tequila Barrel Idiot Farm                                                                           ,0,859
+983,Alt-Bamberg Weißbier                                                                               ,82,860
+984,Chasin Freshies 2014 - Mosaic                                                                       ,9,861
+985,Bobber Lager (Dry Hopped)                                                                           ,112,862
+986,Raspberry Wheat                                                                                     ,44,863
+987,Stoopid Naked Flanders                                                                              ,13,864
+988,Four Play Batch #4                                                                                  ,87,865
+989,Joes Magical Pils                                                                                   ,19,866
+990,Imperial Eclipse Stout - Apple-Brandy                                                               ,33,867
